@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TL494CN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-12-07:12:25)
+    (mountForm default
+        (footprintRef "DIP794W53P254L1930H508Q16N")
+        (spec "System")
+    )
+)

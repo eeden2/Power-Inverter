@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TL494CN
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=16
+Version=5.1
+Released=2017-01-12 12:59:53
+Downloaded=2024-06-03 18:53:51
+3D=Y

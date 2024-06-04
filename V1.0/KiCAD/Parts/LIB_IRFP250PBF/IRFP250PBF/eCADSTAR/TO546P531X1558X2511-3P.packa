@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IRFP250PBF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-17-10:53:47)
+    (mountForm default
+        (footprintRef "TO546P531X1558X2511-3P")
+        (spec "System")
+    )
+)

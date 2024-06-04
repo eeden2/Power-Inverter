@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRFP250PBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IRFP250PBF" (!) = "", "TO546P531X1558X2511-3P", "Transistor Outline, Vertical", "844-IRFP250PBF", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRFP250PBF?qs=%2FRKvNCQzLu1AE23xR%2FUypQ%3D%3D", "Trans MOSFET N-CH 200V 30A", "https://componentsearchengine.com/Datasheets/2/IRFP250PBF.pdf", "5.31 mm"
+END_PART
+
+END.

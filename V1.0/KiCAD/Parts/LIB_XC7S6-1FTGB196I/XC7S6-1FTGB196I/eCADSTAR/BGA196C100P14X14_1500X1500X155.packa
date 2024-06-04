@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "XC7S6-1FTGB196I"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-30-07:02:51)
+    (mountForm default
+        (footprintRef "BGA196C100P14X14_1500X1500X155")
+        (spec "System")
+    )
+)

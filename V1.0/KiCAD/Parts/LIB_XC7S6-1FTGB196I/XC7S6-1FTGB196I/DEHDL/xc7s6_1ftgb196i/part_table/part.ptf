@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XC7S6_1FTGB196I'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "AMD", "XC7S6-1FTGB196I" (!) = "", "BGA196C100P14X14_1500X1500X155", "BGA", "217-XC7S6-1FTGB196I", "https://www.mouser.co.uk/ProductDetail/Xilinx/XC7S6-1FTGB196I?qs=unwgFEO1A6sPesSVAJGsyw%3D%3D", "FPGA - Field Programmable Gate Array XC7S6-1FTGB196I", "", "1.55 mm"
+END_PART
+
+END.

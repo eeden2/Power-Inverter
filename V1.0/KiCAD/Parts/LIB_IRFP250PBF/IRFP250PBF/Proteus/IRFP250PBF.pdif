@@ -1,0 +1,156 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "IRFP250PBF"
+   (description "Trans MOSFET N-CH 200V 30A")
+   (family "TRX")
+   (package "TO546P531X1558X2511-3P")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/IRFP250PBF.pdf")
+   (attribute "Geometry.Height" "5.31mm")
+   (attribute "Mouser Part Number" "844-IRFP250PBF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRFP250PBF?qs=%2FRKvNCQzLu1AE23xR%2FUypQ%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "IRFP250PBF")
+   (gate
+    (symbol "IRFP250PBF")
+    (pin "G" 1 PS)
+    (pin "D" 2 PS)
+    (pin "S" 3 PS)
+   )
+  )
+  (symbol "IRFP250PBF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (circle (pt 400 100) (pt 100 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 300 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 300 300))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0) (pt 200 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 100) (pt 230 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 200) (pt 230 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 220) (pt 230 180))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 -20) (pt 230 20))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 230 80) (pt 230 120))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 230 100) (pt 270 120) (pt 270 80) (pt 230 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 80 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 400) (rot 90) (mir X) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 300 -200) (rot 90) (mir 0) (visible true))
+    (name (pt 0 -20) (rot 90) (just TOP RIGHT) (visible false))
+    (number (pt 0 20) (rot 90) (just TOP LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TO546P531X1558X2511-3P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.725 3.27)
+      (pt 13.645 3.27)
+      (pt 13.645 -2.54)
+      (pt -2.725 -2.54)
+      (pt -2.725 3.27))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.475 3.02)
+      (pt 13.395 3.02)
+      (pt 13.395 -2.29)
+      (pt -2.475 -2.29)
+      (pt -2.475 3.02))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2.475 0.29)
+      (pt 0.255 3.02))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 13.395 -2.29)
+      (pt 13.395 3.02)
+      (pt -2.475 3.02)
+      (pt -2.475 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 5.46 0) (padstack 0))
+   (leg 3 (pt 10.92 0) (padstack 0))
+   (padstack 0
+    (hole 1.84)
+    (plated true)
+    (pad (layer TCOP) (round 2.76))
+    (pad (layer INNER) (round 2.76))
+    (pad (layer BCOP) (round 2.76))
+   )
+   (padstack 1
+    (hole 1.84)
+    (plated true)
+    (pad (layer TCOP) (square 2.76))
+    (pad (layer INNER) (round 2.76))
+    (pad (layer BCOP) (square 2.76))
+   )
+   (model "IRFP250PBF.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

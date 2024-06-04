@@ -1,0 +1,16 @@
+.TL494CN :1 ;PULSE-WIDTH-MODULATION CONTROL CIRCUITS
+DIP794W53P254L1930H508Q16N
+*STM IC
+*NGS
+*PLB 1="1IN+" 2="1IN-" 3="FEEDBACK" 4="DTC" 5="CT" 6="RT" 7="GND" 8="C1" 9="E1" 10="E2" 11="C2" 12="VCC" 13="OUTPUT CTRL" 14="REF" 15="2IN-" 16="2IN+"
+*MXP 16
+*DFN TL494CN
+~!Mouser Part Number (595-TL494CN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL494CN?qs=N6WZOzgtpqWAYQVxthNGyw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL494CN)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tl494)
+~!Height (5.08mm)
+~!3D_Model (TL494CN)
+TL494CN
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

@@ -1,0 +1,16 @@
+.IRFP250PBF :1 ;Trans MOSFET N-CH 200V 30A
+TO546P531X1558X2511-3P
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IRFP250PBF
+~!Mouser Part Number (844-IRFP250PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRFP250PBF?qs=%2FRKvNCQzLu1AE23xR%2FUypQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (IRFP250PBF)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/IRFP250PBF.pdf)
+~!Height (5.31mm)
+~!3D_Model (IRFP250PBF)
+IRFP250PBF
+1.1!U 2.1!U 3.1!U 

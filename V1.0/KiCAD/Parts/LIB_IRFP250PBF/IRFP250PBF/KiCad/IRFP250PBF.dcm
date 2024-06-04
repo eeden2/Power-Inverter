@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFP250PBF
+D Trans MOSFET N-CH 200V 30A
+K
+F https://componentsearchengine.com/Datasheets/2/IRFP250PBF.pdf
+$ENDCMP
+#
+#End Doc Library

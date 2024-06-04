@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL494CN
+D PULSE-WIDTH-MODULATION CONTROL CIRCUITS
+K
+F http://www.ti.com/lit/gpn/tl494
+$ENDCMP
+#
+#End Doc Library

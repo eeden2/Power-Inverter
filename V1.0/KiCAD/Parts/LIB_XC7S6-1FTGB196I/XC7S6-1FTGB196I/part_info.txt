@@ -1,0 +1,9 @@
+Manufacturer=AMD
+PartNumber=XC7S6-1FTGB196I
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=196
+Version=1.1
+Released=2020-04-30 07:02:51
+Downloaded=2024-06-03 17:46:21
+3D=Y

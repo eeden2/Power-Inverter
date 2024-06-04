@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TL494CN'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TL494CN" (!) = "", "DIP794W53P254L1930H508Q16N", "Dual-In-Line Packages", "595-TL494CN", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL494CN?qs=N6WZOzgtpqWAYQVxthNGyw%3D%3D", "PULSE-WIDTH-MODULATION CONTROL CIRCUITS", "http://www.ti.com/lit/gpn/tl494", "5.08 mm"
+END_PART
+
+END.
