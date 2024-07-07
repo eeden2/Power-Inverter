@@ -1,0 +1,16 @@
+.KC2520Z12.0000C15XXK :1 ;Standard Clock Oscillators
+KC2520Z120000C15XXK
+*STM Y
+*NGS
+*PLB 1="INH" 2="CASE GND" 3="OUTPUT" 4="VCC"
+*MXP 4
+*DFN KC2520Z12.0000C15XXK
+~!Mouser Part Number (346-KC2520Z12.0000C1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KC2520Z12.0000C15XXK?qs=vHuUswq2%252BsxHLFgtmKCFGg%3D%3D)
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (KC2520Z12.0000C15XXK)
+~!Link Datasheet (https://www.mouser.cn/datasheet/2/909/clock_z_xz_e-1771825.pdf)
+~!Height (0.9mm)
+~!3D_Model (KC2520Z12.0000C15XXK)
+KC2520Z12.0000C15XXK
+1.1!U 2.1!U 3.1!U 4.1!U 

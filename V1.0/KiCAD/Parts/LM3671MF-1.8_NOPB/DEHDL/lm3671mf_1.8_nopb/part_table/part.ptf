@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM3671MF_1.8_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM3671MF-1.8/NOPB" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "926-LM3671MF-1.8NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM3671MF-1.8-NOPB?qs=QbsRYf82W3EhbfgXz3PpIg%3D%3D", "2MHz, 600mA Step-Down DC-DC Converter", "http://www.ti.com/lit/ds/symlink/lm3671.pdf", "1.45 mm"
+END_PART
+
+END.

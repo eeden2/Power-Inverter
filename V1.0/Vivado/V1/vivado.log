@@ -1,0 +1,73 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Jun 15 08:30:23 2024
+# Process ID: 58116
+# Current directory: C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent60824 C:\Users\MrEve\Documents\Power Inverter\V1.0\Vivado\V1\V1.xpr
+# Log file: C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/vivado.log
+# Journal file: C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1\vivado.jou
+# Running On: DESKTOP-JVS6NIM, OS: Windows, CPU Frequency: 4691 MHz, CPU Physical cores: 24, Host memory: 33440 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.xpr}
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_a/1.0/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es:part0:1.1 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_a/1.1/board.xml as part xcve2802-vsvh1760-2lp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es_revb:part0:1.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_b/1.0/board.xml as part xcve2802-vsvh1760-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vek280_es_revb:part0:1.1 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vek280/es/rev_b/1.1/board.xml as part xcve2802-vsvh1760-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.0/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vhk158_es:part0:1.1 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/vhk158/es/1.1/board.xml as part xcvh1582-vsva3697-2mp-e-s-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670:part0:2.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670/2.0/board.xml as part xczu67dr-fsve1156-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at C:/Xilinx/Vivado/2023.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.2/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 1568.957 ; gain = 365.051
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/sources_1/bd/design_1/design_1.bd}
+Reading block design file <C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/sources_1/bd/design_1/design_1.bd>...
+Successfully read diagram <design_1> from block design file <C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/sources_1/bd/design_1/design_1.bd>
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:microblaze:11.0 microblaze_0
+endgroup
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:clk_wiz:6.0 clk_wiz_0
+INFO: [Device 21-403] Loading part xc7s6ftgb196-1IL
+create_bd_cell: Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 1992.602 ; gain = 346.711
+endgroup
+set_property location {0.5 -140 -282} [get_bd_cells clk_wiz_0]
+set_property -dict [list CONFIG.PRIM_IN_FREQ.VALUE_SRC USER] [get_bd_cells clk_wiz_0]
+set_property -dict [list \
+  CONFIG.CLKIN1_JITTER_PS {833.33} \
+  CONFIG.CLKOUT1_JITTER {479.872} \
+  CONFIG.CLKOUT1_PHASE_ERROR {668.310} \
+  CONFIG.MMCM_CLKFBOUT_MULT_F {62.500} \
+  CONFIG.MMCM_CLKIN1_PERIOD {83.333} \
+  CONFIG.MMCM_CLKIN2_PERIOD {10.0} \
+  CONFIG.MMCM_CLKOUT0_DIVIDE_F {7.500} \
+  CONFIG.PRIM_IN_FREQ {12} \
+  CONFIG.USE_LOCKED {false} \
+  CONFIG.USE_RESET {false} \
+] [get_bd_cells clk_wiz_0]
+connect_bd_net [get_bd_pins microblaze_0/Clk] [get_bd_pins clk_wiz_0/clk_out1]
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new
+file mkdir C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1
+file mkdir {C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new}
+close [ open {C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new/spartan-constraints.xdc} w ]
+add_files -fileset constrs_1 {{C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/constrs_1/new/spartan-constraints.xdc}}
+save_bd_design
+Wrote  : <C:\Users\MrEve\Documents\Power Inverter\V1.0\Vivado\V1\V1.srcs\sources_1\bd\design_1\design_1.bd> 
+Wrote  : <C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/V1.srcs/sources_1/bd/design_1/ui/bd_1f5defd0.ui> 
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Jun 15 09:57:48 2024...

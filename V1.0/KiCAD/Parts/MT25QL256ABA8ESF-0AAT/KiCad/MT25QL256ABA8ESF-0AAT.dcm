@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT25QL256ABA8ESF-0AAT
+D NOR Flash SPI FLASH NOR SLC 64MX4 SOIC
+K
+F https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qljs_l_256_aba_0.pdf?rev=3228e4f0253d4c42a5184cf2007a21dc
+$ENDCMP
+#
+#End Doc Library

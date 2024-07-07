@@ -1,0 +1,9 @@
+Manufacturer=FTDI Chip
+PartNumber=FT2232H-56Q-REEL
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=57
+Version=1.1
+Released=2019-04-09 06:29:23
+Downloaded=2024-06-11 02:43:19
+3D=Y

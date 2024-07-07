@@ -1,0 +1,16 @@
+.831025492 :1 ;12 MHz XO (Standard) CMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead
+"831025492"
+*STM Y
+*NGS
+*PLB 1="ENABLE/DISABLE" 2="GND" 3="OUTPUT" 4="+VS"
+*MXP 4
+*DFN 831025492
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (831025492)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/831025492.pdf)
+~!Height (1.2mm)
+~!3D_Model (831025492)
+"831025492"
+1.1!U 2.1!U 3.1!U 4.1!U 

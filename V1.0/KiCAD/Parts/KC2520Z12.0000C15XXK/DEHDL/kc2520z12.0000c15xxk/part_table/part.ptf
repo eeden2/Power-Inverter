@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KC2520Z12.0000C15XXK'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "KC2520Z12.0000C15XXK" (!) = "", "KC2520Z120000C15XXK", "Other", "346-KC2520Z12.0000C1", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KC2520Z12.0000C15XXK?qs=vHuUswq2%252BsxHLFgtmKCFGg%3D%3D", "Standard Clock Oscillators", "https://www.mouser.cn/datasheet/2/909/clock_z_xz_e-1771825.pdf", "0.9 mm"
+END_PART
+
+END.

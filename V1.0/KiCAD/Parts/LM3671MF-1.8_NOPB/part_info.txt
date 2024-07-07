@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM3671MF-1.8/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.3
+Released=2015-04-16 09:48:08
+Downloaded=2024-06-14 18:39:11
+3D=Y

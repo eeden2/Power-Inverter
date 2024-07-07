@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232H-56Q-REEL
+D FTDI - FT2232H-56Q-REEL - INTERFACE BRIDGE, USB-UART/FIFO, QFN-64
+K
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+$ENDCMP
+#
+#End Doc Library

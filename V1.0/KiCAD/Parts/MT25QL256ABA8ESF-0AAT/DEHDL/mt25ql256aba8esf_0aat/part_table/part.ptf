@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MT25QL256ABA8ESF_0AAT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micron", "MT25QL256ABA8ESF-0AAT" (!) = "", "SOIC127P1032X265-16N", "Small Outline Packages", "340-279831-TRAY", "https://www.mouser.co.uk/ProductDetail/Micron/MT25QL256ABA8ESF-0AAT?qs=rrS6PyfT74foJ%2FxDvfgDOA%3D%3D", "NOR Flash SPI FLASH NOR SLC 64MX4 SOIC", "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qljs_l_256_aba_0.pdf?rev=3228e4f0253d4c42a5184cf2007a21dc", "2.65 mm"
+END_PART
+
+END.

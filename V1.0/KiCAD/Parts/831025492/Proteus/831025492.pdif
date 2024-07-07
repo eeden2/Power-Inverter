@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "831025492"
+   (description "12 MHz XO (Standard) CMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead")
+   (family "OSC")
+   (package "831025492")
+   (attribute "Datasheet Link" "https://www.we-online.com/components/products/datasheet/831025492.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "831025492")
+   (gate
+    (symbol "831025492")
+    (pin "ENABLE/DISABLE" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "OUTPUT" 3 PS)
+    (pin "+VS" 4 PS)
+   )
+  )
+  (symbol "831025492"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "831025492"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 -1.25)
+      (pt 1.6 -1.25)
+      (pt 1.6 1.25)
+      (pt -1.6 1.25)
+      (pt -1.6 -1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.8 2.3)
+      (pt 2.8 2.3)
+      (pt 2.8 -2.3)
+      (pt -2.8 -2.3)
+      (pt -2.8 2.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.1 -1.9)
+      (arc (pt -1.100 -1.900) (pt -1.150 -1.900) (pt -1.050 -1.800) (start 180.0) (sweep -90.0))
+      (pt -1.1 -1.8)
+      (arc (pt -1.100 -1.800) (pt -1.150 -1.900) (pt -1.050 -1.800) (start 180.0) (sweep 90.0))
+      (pt -1.1 -1.9))))
+   (leg 1 (pt -1.100 -0.800) (padstack 0))
+   (leg 2 (pt 1.100 -0.800) (padstack 0))
+   (leg 3 (pt 1.100 0.800) (padstack 0))
+   (leg 4 (pt -1.100 0.800) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 1.400 0 0 0.000))
+   )
+   (model "831025492.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

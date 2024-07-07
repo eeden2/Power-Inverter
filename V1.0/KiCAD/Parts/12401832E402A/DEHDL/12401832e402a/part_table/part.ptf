@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '12401832E402A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol Communications Solutions", "12401832E402A" (!) = "", "12401832E402A", "Other", "523-12401832E402A", "https://www.mouser.co.uk/ProductDetail/Amphenol-Commercial-Products/12401832E402A?qs=5aG0NVq1C4zkz1mXTcv%2FVQ%3D%3D", "USB3.2 GEN2, Type C, Top mount, CH 1.58mm, Dual Row SMT", "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_type_c.pdf", "3.53 mm"
+END_PART
+
+END.

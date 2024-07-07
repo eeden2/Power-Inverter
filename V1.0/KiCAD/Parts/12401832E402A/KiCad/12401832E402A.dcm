@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 12401832E402A
+D USB3.2 GEN2, Type C, Top mount, CH 1.58mm, Dual Row SMT
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_type_c.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FT2232H-56Q-REEL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-09-06:29:23)
+    (mountForm default
+        (footprintRef "QFN50P800X800X100-57N-D")
+        (spec "System")
+    )
+)

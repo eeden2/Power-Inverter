@@ -1,0 +1,15 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.5",
+   "Default View_TopLeft":"-744,-727",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace inst microblaze_0 -pg 1 -lvl 2 -x 400 -y -310 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x -140 -y -280 -defaultsOSRD
+preplace netloc clk_wiz_0_clk_out1 1 1 1 -50 -300n
+levelinfo -pg 1 -230 -140 400 620
+pagesize -pg 1 -db -bbox -sgen -230 -820 620 180
+"
+}
+

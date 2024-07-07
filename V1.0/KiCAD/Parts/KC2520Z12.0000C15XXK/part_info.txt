@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KC2520Z12.0000C15XXK
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2021-03-24 09:04:09
+Downloaded=2024-06-05 19:42:32
+3D=Y

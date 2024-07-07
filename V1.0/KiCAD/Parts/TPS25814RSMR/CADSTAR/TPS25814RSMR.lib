@@ -1,0 +1,16 @@
+.TPS25814RSMR :1 ;USB Interface IC USB Type-C controller with integrated source power switch 32-VQFN -40 to 105
+QFN40P400X400X100-33N-D
+*STM IC
+*NGS
+*PLB 1="LDO_3V3" 2="ADCIN1" 3="ADCIN2" 4="LDO_1V5" 5="EN" 6="'DEBUG'" 7="'FAULT'" 8="I2C_EC_SDA" 9="I2C_EC_SCL" 10="I2C_EC_IRQ" 11="GND_1" 12="GND_2" 13="'POL'" 14="GND_3" 15="GND_4" 16="GND_5" 17="'CHG_HI'" 18="'SINK'" 19="GND_6" 20="GND_7" 21="NC_1" 22="USB_P" 23="USB_N" 24="CC1" 25="CC2" 26="VBUS_1" 27="VBUS_2" 28="PP5V_1" 29="PP5V_2" 30="CTL" 31="NC_2" 32="VIN_3V3" 33="GND_8"
+*MXP 33
+*DFN TPS25814RSMR
+~!Mouser Part Number (595-TPS25814RSMR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS25814RSMR?qs=eP2BKZSCXI7b%2F2SE6IEFzg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS25814RSMR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps25814.pdf?ts=1614246005864&ref_url=https%253A%252F%252Fwww.mouser.it%252F)
+~!Height (1mm)
+~!3D_Model (TPS25814RSMR)
+TPS25814RSMR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

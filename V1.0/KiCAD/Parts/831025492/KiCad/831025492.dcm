@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 831025492
+D 12 MHz XO (Standard) CMOS Oscillator 3.3V Enable/Disable 4-SMD, No Lead
+K
+F https://www.we-online.com/components/products/datasheet/831025492.pdf
+$ENDCMP
+#
+#End Doc Library

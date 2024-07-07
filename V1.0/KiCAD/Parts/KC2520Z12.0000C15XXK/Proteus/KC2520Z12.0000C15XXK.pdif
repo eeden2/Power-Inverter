@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KC2520Z12.0000C15XXK"
+   (description "Standard Clock Oscillators")
+   (family "OSC")
+   (package "KC2520Z120000C15XXK")
+   (attribute "Datasheet Link" "https://www.mouser.cn/datasheet/2/909/clock_z_xz_e-1771825.pdf")
+   (attribute "Geometry.Height" "0.9mm")
+   (attribute "Mouser Part Number" "346-KC2520Z12.0000C1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KC2520Z12.0000C15XXK?qs=vHuUswq2%252BsxHLFgtmKCFGg%3D%3D")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "KC2520Z12.0000C15XXK")
+   (gate
+    (symbol "KC2520Z12.0000C15XXK")
+    (pin "INH" 1 PS)
+    (pin "CASE_GND" 2 PS)
+    (pin "OUTPUT" 3 PS)
+    (pin "VCC" 4 PS)
+   )
+  )
+  (symbol "KC2520Z12.0000C15XXK"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "KC2520Z120000C15XXK"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.25 -1)
+      (pt 1.25 -1)
+      (pt 1.25 1)
+      (pt -1.25 1)
+      (pt -1.25 -1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.45 2.2)
+      (pt 2.45 2.2)
+      (pt 2.45 -2.2)
+      (pt -2.45 -2.2)
+      (pt -2.45 2.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.925 -1.8)
+      (arc (pt -0.925 -1.800) (pt -0.975 -1.900) (pt -0.875 -1.800) (start 180.0) (sweep 90.0))
+      (pt -0.925 -1.9)
+      (arc (pt -0.925 -1.900) (pt -0.975 -1.900) (pt -0.875 -1.800) (start 180.0) (sweep -90.0))
+      (pt -0.925 -1.8)
+      (arc (pt -0.925 -1.800) (pt -0.975 -1.900) (pt -0.875 -1.800) (start 180.0) (sweep 90.0))
+      (pt -0.925 -1.9))))
+   (leg 1 (pt -0.925 -0.725) (padstack 0))
+   (leg 2 (pt 0.925 -0.725) (padstack 0))
+   (leg 3 (pt 0.925 0.725) (padstack 0))
+   (leg 4 (pt -0.925 0.725) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.950 1.050 0 0 0.000))
+   )
+   (model "KC2520Z12.0000C15XXK.stp"
+    (euler 90 0 180)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

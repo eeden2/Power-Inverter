@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FT2232H_56Q_REEL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "FTDI Chip", "FT2232H-56Q-REEL" (!) = "", "QFN50P800X800X100-57N-D", "Quad Flat No-Lead", "895-FT2232H-56Q-REEL", "https://www.mouser.co.uk/ProductDetail/FTDI/FT2232H-56Q-REEL?qs=u4lROS522ZU3fOgvjUCmCg%3D%3D", "FTDI - FT2232H-56Q-REEL - INTERFACE BRIDGE, USB-UART/FIFO, QFN-64", "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf", "1 mm"
+END_PART
+
+END.

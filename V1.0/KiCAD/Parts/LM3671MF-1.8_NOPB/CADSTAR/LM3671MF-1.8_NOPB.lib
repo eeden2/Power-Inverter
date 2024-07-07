@@ -1,0 +1,16 @@
+.LM3671MF-1.8_NOPB :1 ;2MHz, 600mA Step-Down DC-DC Converter
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="EN" 4="FB" 5="SW"
+*MXP 5
+*DFN LM3671MF-1.8_NOPB
+~!Mouser Part Number (926-LM3671MF-1.8NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM3671MF-1.8-NOPB?qs=QbsRYf82W3EhbfgXz3PpIg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM3671MF-1.8/NOPB)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/lm3671.pdf)
+~!Height (1.45mm)
+~!3D_Model (LM3671MF-1.8_NOPB)
+LM3671MF-1.8_NOPB
+1.1!I 2.1!G 3.1!U 4.1!U 5.1!U 

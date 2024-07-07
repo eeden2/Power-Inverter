@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KC2520Z12_0000C15XXK"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-29-09:18:29)
+    (mountForm default
+        (footprintRef "KC2520Z120000C15XXK")
+        (spec "System")
+    )
+)

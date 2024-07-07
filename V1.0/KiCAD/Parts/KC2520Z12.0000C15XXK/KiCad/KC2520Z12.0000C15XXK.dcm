@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KC2520Z12.0000C15XXK
+D Standard Clock Oscillators
+K
+F https://www.mouser.cn/datasheet/2/909/clock_z_xz_e-1771825.pdf
+$ENDCMP
+#
+#End Doc Library

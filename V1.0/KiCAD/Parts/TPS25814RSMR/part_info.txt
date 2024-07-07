@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS25814RSMR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2021-02-26 05:53:31
+Downloaded=2024-06-12 23:20:29
+3D=Y

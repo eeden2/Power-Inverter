@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS25814RSMR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS25814RSMR" (!) = "", "QFN40P400X400X100-33N-D", "Quad Flat No-Lead", "595-TPS25814RSMR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS25814RSMR?qs=eP2BKZSCXI7b%2F2SE6IEFzg%3D%3D", "USB Interface IC USB Type-C controller with integrated source power switch 32-VQFN -40 to 105", "https://www.ti.com/lit/ds/symlink/tps25814.pdf?ts=1614246005864&ref_url=https%253A%252F%252Fwww.mouser.it%252F", "1 mm"
+END_PART
+
+END.

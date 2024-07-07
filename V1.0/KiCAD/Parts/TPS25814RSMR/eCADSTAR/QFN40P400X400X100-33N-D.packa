@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS25814RSMR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-23-10:54:31)
+    (mountForm default
+        (footprintRef "QFN40P400X400X100-33N-D")
+        (spec "System")
+    )
+)

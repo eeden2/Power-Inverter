@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3671MF-1.8_NOPB
+D 2MHz, 600mA Step-Down DC-DC Converter
+K
+F http://www.ti.com/lit/ds/symlink/lm3671.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Micron
+PartNumber=MT25QL256ABA8ESF-0AAT
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2022-04-07 04:57:03
+Downloaded=2024-06-11 02:43:13
+3D=Y
