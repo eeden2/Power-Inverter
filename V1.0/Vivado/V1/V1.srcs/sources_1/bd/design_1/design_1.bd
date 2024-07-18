@@ -10,51 +10,9 @@
       "tool_version": "2023.2"
     },
     "design_tree": {
-      "microblaze_0": "",
       "clk_wiz_0": ""
     },
     "components": {
-      "microblaze_0": {
-        "vlnv": "xilinx.com:ip:microblaze:11.0",
-        "ip_revision": "12",
-        "xci_name": "design_1_microblaze_0_0",
-        "xci_path": "ip\\design_1_microblaze_0_0\\design_1_microblaze_0_0.xci",
-        "inst_hier_path": "microblaze_0",
-        "interface_ports": {
-          "DLMB": {
-            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
-            "mode": "Master",
-            "address_space_ref": "Data",
-            "base_address": {
-              "minimum": "0x00000000",
-              "maximum": "0xFFFFFFFF",
-              "width": "32"
-            }
-          },
-          "ILMB": {
-            "vlnv": "xilinx.com:interface:lmb_rtl:1.0",
-            "mode": "Master",
-            "address_space_ref": "Instruction",
-            "base_address": {
-              "minimum": "0x00000000",
-              "maximum": "0xFFFFFFFF",
-              "width": "32"
-            }
-          }
-        },
-        "addressing": {
-          "address_spaces": {
-            "Data": {
-              "range": "4G",
-              "width": "32"
-            },
-            "Instruction": {
-              "range": "4G",
-              "width": "32"
-            }
-          }
-        }
-      },
       "clk_wiz_0": {
         "vlnv": "xilinx.com:ip:clk_wiz:6.0",
         "ip_revision": "13",
@@ -93,14 +51,6 @@
             "value": "false"
           }
         }
-      }
-    },
-    "nets": {
-      "clk_wiz_0_clk_out1": {
-        "ports": [
-          "clk_wiz_0/clk_out1",
-          "microblaze_0/Clk"
-        ]
       }
     }
   }
