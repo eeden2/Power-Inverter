@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/sincos.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sincos
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/MrEve/Documents/Power Inverter/V1.0/Vivado/V1/sincos_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sincos_tb
