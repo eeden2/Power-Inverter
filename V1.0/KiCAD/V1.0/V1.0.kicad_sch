@@ -17284,7 +17284,7 @@
 	)
 	(text "12MHz Clock and QSPI Flash"
 		(exclude_from_sim no)
-		(at 443.484 48.006 0)
+		(at 443.992 46.736 0)
 		(effects
 			(font
 				(size 2.54 2.54)
