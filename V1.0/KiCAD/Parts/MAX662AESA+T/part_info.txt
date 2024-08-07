@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX662AESA+T
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2022-12-25 03:06:35
+Downloaded=2024-08-02 12:06:47
+3D=Y

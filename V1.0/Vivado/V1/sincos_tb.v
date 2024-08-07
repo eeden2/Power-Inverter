@@ -2,6 +2,8 @@
 
 module sincos_tb ();
 
+
+
 localparam CLK_PERIOD = 10;
 localparam signed [15:0] PI_POS = 16'b 0110_0100_1000_1000;
 localparam signed [15:0] PI_NEG = 16'b 1001_1011_0111_1000;
@@ -37,14 +39,17 @@ always @(posedge clk)
 begin
     if(rst) begin
         phase <= 0;
+       // triangle <= 0;
         phase_tvalid <= -1'b0;
     end else begin
         phase_tvalid <= 1'b1;
         
         if (phase+PHASE_INC < PI_POS) begin
             phase <= phase + PHASE_INC;
+           // triangle <= triangle + PHASE_INC;
         end else begin
             phase <= PI_NEG;
+           // triangle <= PI_NEG;
         end
     end
 end

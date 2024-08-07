@@ -1,0 +1,16 @@
+.MAX662AESA-plus-T :1 ;Switching Voltage Regulators 12V, 30mA Flash Memory Programming Supply
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="C1-" 2="C1+" 3="C2-" 4="C2+" 5="VCC" 6="VOUT" 7="GND" 8="SHDN"
+*MXP 8
+*DFN MAX662AESA-plus-T
+~!Mouser Part Number (700-MAX662AESAT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX662AESA%2bT?qs=Mqkh4jHMT8xwCw6RdkV8HQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX662AESA+T)
+~!Link Datasheet (http://datasheets.maximintegrated.com/en/ds/MAX662A.pdf)
+~!Height (1.75mm)
+~!3D_Model (MAX662AESA+T)
+MAX662AESA-plus-T
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

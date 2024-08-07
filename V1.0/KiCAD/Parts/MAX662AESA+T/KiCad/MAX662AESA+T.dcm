@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX662AESA+T
+D Switching Voltage Regulators 12V, 30mA Flash Memory Programming Supply
+K
+F http://datasheets.maximintegrated.com/en/ds/MAX662A.pdf
+$ENDCMP
+#
+#End Doc Library
