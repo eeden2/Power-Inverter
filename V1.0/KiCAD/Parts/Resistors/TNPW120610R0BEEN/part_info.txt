@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=TNPW120610R0BEEN
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-06-03 14:42:38
+Downloaded=2024-08-08 17:48:43
+3D=Y

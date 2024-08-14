@@ -1,0 +1,16 @@
+.C2220C143KFGLCAUTO :1 ;KONNEKT Auto C0G, Ceramic, 0.014 uF, 10%, 1500 VDC, 1800 VDC, 125C, -55C, C0G, 0.1 % , 71.429 GOhms, 650 mg, 300, 78  Weeks, 120
+CAPC5750X550N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C2220C143KFGLCAUTO
+~!Mouser Part Number (80-C2220C143KFGLAUTO)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/C2220C143KFGLCAUTO?qs=CiayqK2gdcIbCR5xEcwEIg%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (C2220C143KFGLCAUTO)
+~!Link Datasheet (https://content.kemet.com/datasheets/KEM_C1113_KONNEKT_C0G.pdf)
+~!Height (5.5mm)
+~!3D_Model (C2220C143KFGLCAUTO)
+C2220C143KFGLCAUTO
+1.1!U 2.1!U 

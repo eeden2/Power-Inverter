@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT1111CS8-5#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2021-02-02 07:13:28
+Downloaded=2024-08-07 17:30:28
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCS0402MD1002BE100'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "MCS0402MD1002BE100" (!) = "", "RESC1005X37N", "Resistor Chip", "594-MCS0402MD1002BE1", "https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCS0402MD1002BE100?qs=3SvaY9RawMIFge2HspqWnA%3D%3D", "Thin Film Resistors - SMD .063W 10Kohms 0.1% 0402 25ppm Auto", "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf", "0.37 mm"
+END_PART
+
+END.

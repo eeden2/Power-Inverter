@@ -1,0 +1,96 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "C0603C621F5GACTU"
+   (description "SMD Comm C0G, Ceramic, 620 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120")
+   (family "CAP")
+   (package "CAPC1608X87N")
+   (attribute "Datasheet Link" "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf")
+   (attribute "Geometry.Height" "0.87mm")
+   (attribute "Mouser Part Number" "80-C0603C621F5G")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0603C621F5GACTU?qs=t1AaNOgFqHku8uRGrhMUtA%3D%3D")
+   (attribute "Manufacturer_Name" "KEMET")
+   (attribute "Manufacturer_Part_Number" "C0603C621F5GACTU")
+   (gate
+    (symbol "C0603C621F5GACTU")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "C0603C621F5GACTU"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC1608X87N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.24 0.64)
+      (pt 1.24 0.64)
+      (pt 1.24 -0.64)
+      (pt -1.24 -0.64)
+      (pt -1.24 0.64))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 0.4)
+      (pt 0.8 0.4)
+      (pt 0.8 -0.4)
+      (pt -0.8 -0.4)
+      (pt -0.8 0.4))))
+   (leg 1 (pt -0.7 0) (padstack 0))
+   (leg 2 (pt 0.7 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.78 0.98 0 0 90))
+   )
+   (model "C0603C621F5GACTU.stp"
+    (euler 90 0 0)
+    (offset -0.8700000047683716 -0.47999998927116394 0)
+   )
+  )
+ )
+)

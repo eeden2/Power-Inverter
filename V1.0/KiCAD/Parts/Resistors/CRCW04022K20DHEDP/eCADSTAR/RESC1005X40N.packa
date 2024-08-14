@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CRCW04022K20DHEDP"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-06-16:39:12)
+    (mountForm default
+        (footprintRef "RESC1005X40N")
+        (spec "System")
+    )
+)

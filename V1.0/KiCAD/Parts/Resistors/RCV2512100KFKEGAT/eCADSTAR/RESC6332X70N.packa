@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RCV2512100KFKEGAT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-14-23:19:31)
+    (mountForm default
+        (footprintRef "RESC6332X70N")
+        (spec "System")
+    )
+)

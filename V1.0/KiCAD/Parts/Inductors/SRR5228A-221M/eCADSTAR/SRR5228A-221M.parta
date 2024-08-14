@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_19107506"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-15-04:18:42)
+    (utime 2024-02-15-10:50:57)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SRR5228A-221M")
+)
+
+
+(pinAssign "ECS_19107506"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-15-04:18:42)
+    (utime 2024-02-15-10:50:57)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19107506")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SRR5228A-221M")
+)
+
+
+(part "SRR5228A-221M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-02-15-04:18:42)
+    (utime 2024-02-15-10:50:57)
+    (packageRef "SRR5228A-221M")
+    (pinAssignRef "ECS_19107506")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Ind,5.2x5.2x2.8,220uH+/-20%,0.46A,shd")
+    (property "Mouser_Part_Number" "6521-SRR5228A-221M")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/SRR5228A-221M?qs=QpmGXVUTftFQ62yS6IDeWg%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SRR5228A-221M")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/SRR5228A.pdf")
+)
+
+

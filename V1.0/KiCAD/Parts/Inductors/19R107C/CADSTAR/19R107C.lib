@@ -1,0 +1,16 @@
+.19R107C :1 ;Murata 100000 uH +/-10% Leaded Inductor, 70mA Idc, 90 Rdc 1900R
+CAPPRD600W90D1200H2100
+*STM L
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 19R107C
+~!Mouser Part Number (580-19R107C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/19R107C?qs=RzyoSnN9rS0xiJ%2FHdjpJMw%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (19R107C)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/19R107C.pdf)
+~!Height (21mm)
+~!3D_Model (19R107C)
+"19R107C"
+1.1!U 2.1!U 

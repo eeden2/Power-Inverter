@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERA-2ARB2612X
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-09-05 19:00:21
+Downloaded=2024-08-09 18:18:10
+3D=Y

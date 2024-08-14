@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW120622R0JNEAHP
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-03-07 10:39:46
+Downloaded=2024-08-08 17:47:50
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KGM21AR51A476MU
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 10V 47uF X5R 0805 20%
+K
+F https://www.mouser.it/datasheet/2/40/cx5r_KGM-3223198.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RT1206CRE07900RL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-21-08:44:54)
+    (mountForm default
+        (footprintRef "RESC3116X65N")
+        (spec "System")
+    )
+)

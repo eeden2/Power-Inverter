@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19279618"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-13-07:45:18)
+    (utime 2024-07-13-07:45:18)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "KAM15AR72A103KM")
+)
+
+
+(pinAssign "ECS_19279618"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-13-07:45:18)
+    (utime 2024-07-13-07:45:18)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19279618")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KAM15AR72A103KM")
+)
+
+
+(part "KAM15AR72A103KM"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-07-13-07:45:18)
+    (utime 2024-07-13-07:45:18)
+    (packageRef "KAM15AR72A103KM")
+    (pinAssignRef "ECS_19279618")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "10000 pF +/-10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)")
+    (property "Mouser_Part_Number" "581-KAM15AR72A103KM")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM15AR72A103KM?qs=Jm2GQyTW%2FbidaKuPpnVTuw%3D%3D")
+    (property "Manufacturer_Name" "Kyocera AVX")
+    (property "Manufacturer_Part_Number" "KAM15AR72A103KM")
+    (property "Datasheet_Link" "https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf")
+    (property "compAreaTopHeight" 0.9)
+)
+
+

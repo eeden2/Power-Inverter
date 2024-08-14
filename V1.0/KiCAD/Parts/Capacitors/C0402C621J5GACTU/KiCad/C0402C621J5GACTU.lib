@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model C0402C621J5GACTU
+#/717813/1127645/2.50/2/2/Capacitor
+DEF C0402C621J5GACTU C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "C0402C621J5GACTU" 350 150 50 H V L CNN
+F2 "C0402C104J4RACTU" 350 50 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/C0402C621J5GACTU.pdf" 350 -50 50 H I L CNN
+F4 "SMD Comm C0G, Ceramic, 620 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120" 350 -150 50 H I L CNN "Description"
+F5 "0.55" 350 -250 50 H I L CNN "Height"
+F6 "80-C0402C621J5G" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "http://www.mouser.com/Search/ProductDetail.aspx?qs=GP7tGcbp1QRIekJfjnk3Vg%3d%3d" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "KEMET" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C0402C621J5GACTU" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 500 0 200 L 50 50 0 0 P
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

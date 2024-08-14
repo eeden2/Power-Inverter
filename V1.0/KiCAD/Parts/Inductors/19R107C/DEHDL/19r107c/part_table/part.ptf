@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '19R107C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "19R107C" (!) = "", "CAPPRD600W90D1200H2100", "Capacitor, Polarized Radial Diameter", "580-19R107C", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/19R107C?qs=RzyoSnN9rS0xiJ%2FHdjpJMw%3D%3D", "Murata 100000 uH +/-10% Leaded Inductor, 70mA Idc, 90 Rdc 1900R", "https://componentsearchengine.com/Datasheets/1/19R107C.pdf", "21 mm"
+END_PART
+
+END.

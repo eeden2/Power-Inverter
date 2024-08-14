@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ERA8KEB1004V"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ERA8KEB1004V")
+        (spec "default")
+    )
+)

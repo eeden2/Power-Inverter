@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PCW1D-C24-KAB104L
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=7
+Version=1.4
+Released=2022-12-19 16:30:49
+Downloaded=2024-08-12 15:23:31
+3D=N

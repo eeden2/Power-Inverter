@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'WSLP5931L1000FEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "WSLP5931L1000FEA" (!) = "", "RESC15077X100N", "Resistor Chip", "71-WSLP5931L1000FEA", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSLP5931L1000FEA?qs=AQlKX63v8Rs%252BJpQIynINvA%3D%3D", "Current Sense Resistors - SMD 0.0001 ohm 1%", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/cd369b67f640568f5c60fc944b86acf3.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.C0402C621J5GACTU :1 ;SMD Comm C0G, Ceramic, 620 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120
+C0402C104J4RACTU
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C0402C621J5GACTU
+~!Mouser Part Number (80-C0402C621J5G)
+~!Link Mouser Price/Stock (http://www.mouser.com/Search/ProductDetail.aspx?qs=GP7tGcbp1QRIekJfjnk3Vg%3d%3d)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (C0402C621J5GACTU)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/C0402C621J5GACTU.pdf)
+~!Height (0.55mm)
+~!3D_Model (C0402C621J5GACTU)
+C0402C621J5GACTU
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0402C101KCGACAUTO
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2023-08-04 02:55:26
+Downloaded=2024-08-07 16:33:39
+3D=Y

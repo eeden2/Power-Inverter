@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MBRS130T3G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MBRS130T3G" (!) = "", "DIOM5436X247N", "Diodes Moulded", "863-MBRS130T3G", "https://www.mouser.co.uk/ProductDetail/onsemi/MBRS130T3G?qs=3JMERSakebp6is4BTPNy6g%3D%3D", "Schottky Power Rectifier", "http://www.onsemi.com/pub/Collateral/MBRS130T3-D.PDF", "2.47 mm"
+END_PART
+
+END.

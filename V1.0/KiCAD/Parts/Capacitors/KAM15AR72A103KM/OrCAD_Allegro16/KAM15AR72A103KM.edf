@@ -1,0 +1,121 @@
+
+(EDIF
+  (rename &KAM15AR72A103KM "KAM15AR72A103KM")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2024 08 07 17 57 22)
+      (dataOrigin "19279618/1127645/2.50/2/3/Capacitor")
+      (program "SamacSys ECAD Model KAM15AR72A103KM"
+        (version "1.1"))))
+  (library
+  (rename &KAM15AR72A103KM "KAM15AR72A103KM")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &KAM15AR72A103KM "KAM15AR72A103KM")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "C")
+          (property (rename PACKAGENAME "PackageName") (string "KAM15AR72A103KM"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "CAPC1608X90N"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "581-KAM15AR72A103KM"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM15AR72A103KM?qs=Jm2GQyTW%2FbidaKuPpnVTuw%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "Kyocera AVX"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "KAM15AR72A103KM"))
+          (property (rename &Description "Description") (string "10000 pF +/-10percent 100V Ceramic Capacitor X7R 0603 (1608 Metric)"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf"))
+          (property (rename &Height "Height") (string "0.9 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "KAM15AR72A103KM"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 100 -100) (pt 300 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -100))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 20 0)
+                  (pt 20 -200)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 80 0)
+                  (pt 80 -200)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 -100)
+                  (pt 20 -100)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 80 -100)
+                  (pt 100 -100)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify 24) (orientation R0) (origin (pt 150 80))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify 24) (orientation R0) (origin (pt 150 -20))))
+          )
+        )
+      )
+    )
+  )
+)

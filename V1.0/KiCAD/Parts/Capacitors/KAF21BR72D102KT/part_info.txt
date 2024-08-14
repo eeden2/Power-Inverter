@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAF21BR72D102KT
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-05-08 10:39:15
+Downloaded=2024-08-07 16:32:49
+3D=Y

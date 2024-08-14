@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERA-8VRB1202V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-08-08-12:14:31)
+    (mountForm default
+        (footprintRef "ERA8KEB1004V")
+        (spec "System")
+    )
+)

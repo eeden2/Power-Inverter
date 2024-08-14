@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=MKP1848C52080JK2
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2021-09-04 05:47:49
+Downloaded=2024-08-10 14:13:26
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAF32LR71H106KL
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-02-22 10:35:59
+Downloaded=2024-08-07 18:05:09
+3D=Y

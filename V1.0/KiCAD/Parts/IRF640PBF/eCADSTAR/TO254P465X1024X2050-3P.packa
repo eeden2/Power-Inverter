@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IRF640PBF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-07-22:35:53)
+    (mountForm default
+        (footprintRef "TO254P465X1024X2050-3P")
+        (spec "System")
+    )
+)

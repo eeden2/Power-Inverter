@@ -1,0 +1,16 @@
+.MCS0402MD1002BE100 :1 ;Thin Film Resistors - SMD .063W 10Kohms 0.1% 0402 25ppm Auto
+RESC1005X37N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MCS0402MD1002BE100
+~!Mouser Part Number (594-MCS0402MD1002BE1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCS0402MD1002BE100?qs=3SvaY9RawMIFge2HspqWnA%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (MCS0402MD1002BE100)
+~!Link Datasheet (http://www.vishay.com/docs/28705/mcx0x0xpro.pdf)
+~!Height (0.37mm)
+~!3D_Model (MCS0402MD1002BE100)
+MCS0402MD1002BE100
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MKP1848C52080JK2
+D Film Capacitors 2uF 5% 800V
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/VISH/VISH-S-A0006718831/VISH-S-A0006718831-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,84 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MCS0402MD1002BE100"
+   (description "Thin Film Resistors - SMD .063W 10Kohms 0.1% 0402 25ppm Auto")
+   (family "RES")
+   (package "RESC1005X37N")
+   (attribute "Datasheet Link" "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf")
+   (attribute "Geometry.Height" "0.37mm")
+   (attribute "Mouser Part Number" "594-MCS0402MD1002BE1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCS0402MD1002BE100?qs=3SvaY9RawMIFge2HspqWnA%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "MCS0402MD1002BE100")
+   (gate
+    (symbol "MCS0402MD1002BE100")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "MCS0402MD1002BE100"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESC1005X37N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.15 0.55)
+      (pt 1.15 0.55)
+      (pt 1.15 -0.55)
+      (pt -1.15 -0.55)
+      (pt -1.15 0.55))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.5 0.25)
+      (pt 0.5 0.25)
+      (pt 0.5 -0.25)
+      (pt -0.5 -0.25)
+      (pt -0.5 0.25))))
+   (leg 1 (pt -0.55 0) (padstack 0))
+   (leg 2 (pt 0.55 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 0.7 0 0 0))
+   )
+   (model "MCS0402MD1002BE100.stp"
+    (euler 0 0 0)
+    (offset 0.5 -0.25 0)
+   )
+  )
+ )
+)

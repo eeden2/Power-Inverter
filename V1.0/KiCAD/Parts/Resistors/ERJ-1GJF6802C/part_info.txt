@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-1GJF6802C
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-10-05 15:11:49
+Downloaded=2024-08-07 20:42:18
+3D=Y

@@ -1,0 +1,16 @@
+.IRF640PBF :1 ;IRF640PBF
+TO254P465X1024X2050-3P
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IRF640PBF
+~!Mouser Part Number (844-IRF640PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRF640PBF?qs=%2FRKvNCQzLu1wtfVHcmZw0A%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (IRF640PBF)
+~!Link Datasheet (-)
+~!Height (4.65mm)
+~!3D_Model (IRF640PBF)
+IRF640PBF
+1.1!U 2.1!U 3.1!U 

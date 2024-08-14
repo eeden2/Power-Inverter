@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRR5228A-221M
+D Ind,5.2x5.2x2.8,220uH+/-20%,0.46A,shd
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRR5228A.pdf
+$ENDCMP
+#
+#End Doc Library

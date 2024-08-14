@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCS04020D4702BE000
+D Vishay Resistor Chip 0402
+K
+F http://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+$ENDCMP
+#
+#End Doc Library

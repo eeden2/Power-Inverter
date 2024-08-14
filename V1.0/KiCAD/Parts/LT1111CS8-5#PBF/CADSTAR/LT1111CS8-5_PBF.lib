@@ -1,0 +1,16 @@
+.LT1111CS8-5_PBF :1 ;Linear Technology LT1111CS8-5#PBF, Inverting, Step-Down/Up DC-DC Converter, 8-Pin SOIC
+SOIC127P599X175-8N
+*STM IC
+*NGS
+*PLB 1="ILIM" 2="VIN" 3="SW1" 4="SW2" 5="GND" 6="A0" 7="SET" 8="SENSE"
+*MXP 8
+*DFN LT1111CS8-5_PBF
+~!Mouser Part Number (584-LT1111CS8-5#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT1111CS8-5PBF?qs=ytflclh7QUXK7fNFBDePaQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LT1111CS8-5#PBF)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090801.pdf)
+~!Height (1.752mm)
+~!3D_Model (LT1111CS8-5#PBF)
+LT1111CS8-5_PBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

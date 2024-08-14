@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW04022K20DHEDP'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW04022K20DHEDP" (!) = "", "RESC1005X40N", "Resistor Chip", "71-CRCW04022K20DHEDP", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW04022K20DHEDP?qs=hWgE7mdIu5TsBnZbG%252BKJdA%3D%3D", "Thick Film Resistors - SMD D10/CRCW0402-P 50 2K2 0.5% ET7 e3", "https://www.vishay.com/doc?20036", "0.4 mm"
+END_PART
+
+END.

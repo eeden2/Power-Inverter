@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C2220C143KFGLCAUTO
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2022-04-18 05:31:26
+Downloaded=2024-08-07 20:29:57
+3D=Y

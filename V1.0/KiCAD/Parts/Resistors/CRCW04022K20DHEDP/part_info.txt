@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW04022K20DHEDP
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-04-06 16:39:12
+Downloaded=2024-08-08 17:47:01
+3D=Y

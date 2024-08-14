@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=MCS0402MD1002BE100
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-03-07 11:02:13
+Downloaded=2024-08-08 17:46:28
+3D=Y

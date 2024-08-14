@@ -1,0 +1,16 @@
+.KAM15AR71H104KM :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V .1uF X7R 0603 10% AEC-Q200
+CAPC1608X90N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN KAM15AR71H104KM
+~!Mouser Part Number (581-KAM15AR71H104KM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM15AR71H104KM?qs=Jm2GQyTW%2FbgzS5FHJWrFzQ%3D%3D)
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (KAM15AR71H104KM)
+~!Link Datasheet (https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf)
+~!Height (0.9mm)
+~!3D_Model (KAM15AR71H104KM)
+KAM15AR71H104KM
+1.1!U 2.1!U 

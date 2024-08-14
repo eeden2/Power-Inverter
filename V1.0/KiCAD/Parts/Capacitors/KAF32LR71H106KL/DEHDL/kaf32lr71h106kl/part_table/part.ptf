@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KAF32LR71H106KL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "KAF32LR71H106KL" (!) = "", "CAPC3225X178N", "Capacitor Chip Non-polarised", "581-KAF32LR71H106KL", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAF32LR71H106KL?qs=Jm2GQyTW%2FbjRFOhV%2FdegQw%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10uF X7R 1210 10% AEC-Q200 FLEXITERM", "https://www.mouser.in/datasheet/2/40/AutoMLCCKAF-3218225.pdf", "1.78 mm"
+END_PART
+
+END.

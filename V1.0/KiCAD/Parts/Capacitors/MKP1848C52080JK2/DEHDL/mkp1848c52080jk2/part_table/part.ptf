@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MKP1848C52080JK2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "MKP1848C52080JK2" (!) = "", "MKP1848C52080JK2", "Other", "75-MKP1848C52080JK2", "https://www.mouser.co.uk/ProductDetail/Vishay-Roederstein/MKP1848C52080JK2?qs=HVbQlW5zcXXd%2FkjsDzvKfA%3D%3D", "Film Capacitors 2uF 5% 800V", "https://4donline.ihs.com/images/VipMasterIC/IC/VISH/VISH-S-A0006718831/VISH-S-A0006718831-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6", "19 mm"
+END_PART
+
+END.

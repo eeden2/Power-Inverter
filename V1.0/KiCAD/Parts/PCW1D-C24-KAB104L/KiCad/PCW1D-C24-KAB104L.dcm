@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCW1D-C24-KAB104L
+D Potentiometers 100K 20% Sq 22mm Single Turn
+K
+F https://www.bourns.com/docs/Product-Datasheets/slimline.pdf
+$ENDCMP
+#
+#End Doc Library

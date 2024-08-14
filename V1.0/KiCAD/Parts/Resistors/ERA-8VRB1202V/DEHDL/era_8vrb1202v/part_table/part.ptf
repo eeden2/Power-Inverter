@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_8VRB1202V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERA-8VRB1202V" (!) = "", "ERA8KEB1004V", "Other", "667-ERA-8VRB1202V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-8VRB1202V?qs=By6Nw2ByBD2l45MYRMXXUw%3D%3D", "Series/Type: Thin Film Chip Resistors, High Stability and Reliability Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 3.2 x 1.6 (EIA:1206), Resistance Values (): 12000, Resistance Tolerance (%): 0.1, T.C.R (10/K): +/-10", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf", "0.65 mm"
+END_PART
+
+END.

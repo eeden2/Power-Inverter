@@ -1,0 +1,16 @@
+.EEE-FT1H331AV :1 ;Aluminium Electroyltic Capacitor, Radial, Vibration-Proof
+EEHZT1E561UV
+*STM C
+*NGS
+*PLB 1="+_1" 2="-_1" 3="+_2" 4="+_3" 5="-_2" 6="-_3"
+*MXP 6
+*DFN EEE-FT1H331AV
+~!Mouser Part Number (667-EEE-FT1H331AV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-FT1H331AV?qs=rrS6PyfT74fpXB09SUUxFg%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EEE-FT1H331AV)
+~!Link Datasheet (http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1240.pdf)
+~!Height (10.5mm)
+~!3D_Model (EEE-FT1H331AV)
+EEE-FT1H331AV
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

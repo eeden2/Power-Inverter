@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-FT1H331AV
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=6
+Version=5.4
+Released=2021-09-29 09:33:43
+Downloaded=2024-08-07 16:35:00
+3D=Y

@@ -1,0 +1,96 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KAM03CT70J105KH"
+   (description "Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3V 1uF X7T 0201 10% AEC-Q200")
+   (family "CAP")
+   (package "CAPC0603X39N")
+   (attribute "Datasheet Link" "https://spicat.kyocera-avx.com/product/mlcc/chartview/KAM03CT70J105KH/DataSheet/X7T")
+   (attribute "Geometry.Height" "0.39mm")
+   (attribute "Mouser Part Number" "581-KAM03CT70J105KH")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM03CT70J105KH?qs=amGC7iS6iy9BaDKwbVeMwg%3D%3D")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "KAM03CT70J105KH")
+   (gate
+    (symbol "KAM03CT70J105KH")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "KAM03CT70J105KH"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC0603X39N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -0.725 0.37)
+      (pt 0.725 0.37)
+      (pt 0.725 -0.37)
+      (pt -0.725 -0.37)
+      (pt -0.725 0.37))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.3 0.15)
+      (pt 0.3 0.15)
+      (pt 0.3 -0.15)
+      (pt -0.3 -0.15)
+      (pt -0.3 0.15))))
+   (leg 1 (pt -0.338 0) (padstack 0))
+   (leg 2 (pt 0.338 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.44 0.475 0 0 0))
+   )
+   (model "KAM03CT70J105KH.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

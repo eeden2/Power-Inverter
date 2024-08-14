@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C2220C143KFGLCAUTO'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "C2220C143KFGLCAUTO" (!) = "", "CAPC5750X550N", "Capacitor Chip Non-polarised", "80-C2220C143KFGLAUTO", "https://www.mouser.co.uk/ProductDetail/KEMET/C2220C143KFGLCAUTO?qs=CiayqK2gdcIbCR5xEcwEIg%3D%3D", "KONNEKT Auto C0G, Ceramic, 0.014 uF, 10%, 1500 VDC, 1800 VDC, 125C, -55C, C0G, 0.1 % , 71.429 GOhms, 650 mg, 300, 78  Weeks, 120", "https://content.kemet.com/datasheets/KEM_C1113_KONNEKT_C0G.pdf", "5.5 mm"
+END_PART
+
+END.

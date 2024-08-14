@@ -1,0 +1,121 @@
+
+(EDIF
+  (rename &C2220C143KFGLCAUTO "C2220C143KFGLCAUTO")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2024 08 07 20 29 57)
+      (dataOrigin "15053696/1127645/2.50/2/2/Capacitor")
+      (program "SamacSys ECAD Model C2220C143KFGLCAUTO"
+        (version "4.1"))))
+  (library
+  (rename &C2220C143KFGLCAUTO "C2220C143KFGLCAUTO")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &C2220C143KFGLCAUTO "C2220C143KFGLCAUTO")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "C")
+          (property (rename PACKAGENAME "PackageName") (string "C2220C143KFGLCAUTO"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "CAPC5750X550N"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "80-C2220C143KFGLAUTO"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/KEMET/C2220C143KFGLCAUTO?qs=CiayqK2gdcIbCR5xEcwEIg%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "KEMET"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "C2220C143KFGLCAUTO"))
+          (property (rename &Description "Description") (string "KONNEKT Auto C0G, Ceramic, 0.014 uF, 10percent, 1500 VDC, 1800 VDC, 125C, -55C, C0G, 0.1 percent , 71.429 GOhms, 650 mg, 300, 78  Weeks, 120"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://content.kemet.com/datasheets/KEM_C1113_KONNEKT_C0G.pdf"))
+          (property (rename &Height "Height") (string "5.5 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "C2220C143KFGLCAUTO"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (portImplementation
+              (name &2)
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt 100 -100) (pt 300 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt 300 -100))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 20 0)
+                  (pt 20 -200)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 80 0)
+                  (pt 80 -200)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 -100)
+                  (pt 20 -100)
+                )
+              )
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 80 -100)
+                  (pt 100 -100)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify 24) (orientation R0) (origin (pt 150 80))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify 24) (orientation R0) (origin (pt 150 -20))))
+          )
+        )
+      )
+    )
+  )
+)

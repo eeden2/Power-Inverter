@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RT1206CRE07900RL'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "YAGEO", "RT1206CRE07900RL" (!) = "", "RESC3116X65N", "Resistor Chip", "", "", "900 Ohms +/-0.25% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thin Film", "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf", "0.65 mm"
+END_PART
+
+END.

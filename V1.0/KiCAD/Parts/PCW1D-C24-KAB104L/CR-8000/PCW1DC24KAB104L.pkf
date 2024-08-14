@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PCW1DC24KAB104L"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PCW1DC24KAB104L")
+        (spec "default")
+    )
+)

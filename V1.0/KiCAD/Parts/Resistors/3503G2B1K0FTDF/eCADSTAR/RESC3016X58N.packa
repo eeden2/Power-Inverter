@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "3503G2B1K0FTDF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-02-11:50:19)
+    (mountForm default
+        (footprintRef "RESC3016X58N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RCH875NP_2R2M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sumida", "RCH875NP-2R2M" (!) = "", "RCH875NP2R2M", "Other", "851-RCH875NP-2R2M", "https://www.mouser.co.uk/ProductDetail/Sumida/RCH875NP-2R2M?qs=LKl%2FVGYbYthn8bnN%2FMKPbw%3D%3D", "Power Inductors - Leaded 2.2uH 3A 20% THRU HOLE INDUCTOR", "https://products.sumida.com/products/pdf/RCH-875.pdf", "7.5 mm"
+END_PART
+
+END.

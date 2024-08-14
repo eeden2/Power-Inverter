@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT1206CRE07900RL
+D 900 Ohms +/-0.25% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thin Film
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf
+$ENDCMP
+#
+#End Doc Library

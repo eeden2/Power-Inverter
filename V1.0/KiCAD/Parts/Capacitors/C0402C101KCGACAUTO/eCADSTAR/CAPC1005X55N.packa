@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "C0402C101KCGACAUTO"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-02-07:10:49)
+    (mountForm default
+        (footprintRef "CAPC1005X55N")
+        (spec "System")
+    )
+)

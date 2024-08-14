@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ERA2AED122X"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ERA2AED122X")
+        (spec "default")
+    )
+)

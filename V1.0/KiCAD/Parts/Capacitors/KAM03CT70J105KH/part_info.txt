@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAM03CT70J105KH
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2023-09-21 14:19:34
+Downloaded=2024-08-10 14:55:36
+3D=Y

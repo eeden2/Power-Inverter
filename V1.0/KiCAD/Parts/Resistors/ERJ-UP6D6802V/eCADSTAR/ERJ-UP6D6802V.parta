@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_16321070"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-06-10-12:05:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ERJ-UP6D6802V")
+)
+
+
+(pinAssign "ECS_16321070"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-06-10-12:05:55)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16321070")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ERJ-UP6D6802V")
+)
+
+
+(part "ERJ-UP6D6802V"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-06-10-12:05:55)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "ERJ-UP6D6802V")
+    (pinAssignRef "ECS_16321070")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Anti-Sulfurated Thick Film Chip Resistors/ Anti-Surge Type, Power Rating (W): 0.5, Chip Size (LxW(EIA)) (mm): 2.0 x 1.25 (EIA:0805), Resistance Values (?): 68000, Resistance Tolerance (%): 0.5, T.C.R (?102/K): ?100")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "ERJ-UP6D6802V")
+    (property "Datasheet_Link" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C337.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

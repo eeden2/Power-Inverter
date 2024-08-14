@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_11439666"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-31-12:22:58)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C0805C362G4HACTU")
+)
+
+
+(pinAssign "ECS_11439666"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-31-12:22:58)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11439666")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C0805C362G4HACTU")
+)
+
+
+(part "C0805C362G4HACTU"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-31-12:22:58)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "C0805C362G4HACTU")
+    (pinAssignRef "ECS_11439666")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "SMD Comm X8R HT150C, Ceramic, 3600 pF, 2%, 16 VDC, 40 VDC, 150C, -55C, X8R, SMD, MLCC, High Temperature, Ultra-Stable, 2.5 % , 100 GOhms, 11 mg, 0805, 2mm, 1.25mm, 0.78mm, 0.75mm, 0.5mm, 4000, 78  Weeks")
+    (property "Mouser_Part_Number" "80-C0805C362G4HACTU")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C362G4HACTU?qs=W0yvOO0ixfGyvRKe9FXYiQ%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "C0805C362G4HACTU")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

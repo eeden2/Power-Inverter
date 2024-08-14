@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RCH875NP-2R2M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-28-03:39:02)
+    (mountForm default
+        (footprintRef "RCH875NP2R2M")
+        (spec "System")
+    )
+)

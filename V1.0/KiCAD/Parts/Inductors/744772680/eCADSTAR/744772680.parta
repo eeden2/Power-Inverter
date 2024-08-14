@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_608882"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "744772680")
+)
+
+
+(pinAssign "ECS_608882"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_608882")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "744772680")
+)
+
+
+(part "744772680"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-12-20:05:57)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "744772680")
+    (pinAssignRef "ECS_608882")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Radial Leaded Wire Wound Inductor WE-TI")
+    (property "Mouser_Part_Number" "710-744772680")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744772680?qs=VxkwJfKV0FT%2FHCuvNWnfmw%3D%3D")
+    (property "Manufacturer_Name" "Wurth Elektronik")
+    (property "Manufacturer_Part_Number" "744772680")
+    (property "Datasheet_Link" "")
+)
+
+

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERA-2ARB2612X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-10-12:04:00)
+    (mountForm default
+        (footprintRef "ERA2AED122X")
+        (spec "System")
+    )
+)

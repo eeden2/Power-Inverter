@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "19R107C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-22-02:39:20)
+    (mountForm default
+        (footprintRef "CAPPRD600W90D1200H2100")
+        (spec "System")
+    )
+)

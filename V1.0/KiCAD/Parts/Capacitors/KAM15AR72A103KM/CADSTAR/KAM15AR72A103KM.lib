@@ -1,0 +1,16 @@
+.KAM15AR72A103KM :1 ;10000 pF +/-10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)
+CAPC1608X90N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN KAM15AR72A103KM
+~!Mouser Part Number (581-KAM15AR72A103KM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAM15AR72A103KM?qs=Jm2GQyTW%2FbidaKuPpnVTuw%3D%3D)
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (KAM15AR72A103KM)
+~!Link Datasheet (https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf)
+~!Height (0.9mm)
+~!3D_Model (KAM15AR72A103KM)
+KAM15AR72A103KM
+1.1!U 2.1!U 

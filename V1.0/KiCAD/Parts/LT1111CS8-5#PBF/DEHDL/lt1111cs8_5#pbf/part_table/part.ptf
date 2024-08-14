@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT1111CS8_5#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LT1111CS8-5#PBF" (!) = "", "SOIC127P599X175-8N", "Small Outline Packages", "584-LT1111CS8-5#PBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT1111CS8-5PBF?qs=ytflclh7QUXK7fNFBDePaQ%3D%3D", "Linear Technology LT1111CS8-5#PBF, Inverting, Step-Down/Up DC-DC Converter, 8-Pin SOIC", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090801.pdf", "1.752 mm"
+END_PART
+
+END.

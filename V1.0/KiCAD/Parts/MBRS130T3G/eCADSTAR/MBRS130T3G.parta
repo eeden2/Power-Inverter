@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_225015"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-09-01-16:33:10)
+    (utime 2024-06-26-10:21:53)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MBRS130T3G")
+)
+
+
+(pinAssign "ECS_225015"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-09-01-16:33:10)
+    (utime 2024-06-26-10:21:53)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_225015")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MBRS130T3G")
+)
+
+
+(part "MBRS130T3G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2015-09-01-16:33:10)
+    (utime 2024-06-26-10:21:53)
+    (packageRef "MBRS130T3G")
+    (pinAssignRef "ECS_225015")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Schottky Power Rectifier")
+    (property "Mouser_Part_Number" "863-MBRS130T3G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MBRS130T3G?qs=3JMERSakebp6is4BTPNy6g%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "MBRS130T3G")
+    (property "Datasheet_Link" "http://www.onsemi.com/pub/Collateral/MBRS130T3-D.PDF")
+    (property "compAreaTopHeight" 2.47)
+)
+
+

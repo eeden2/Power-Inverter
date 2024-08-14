@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TNPW120610R0BEEN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-18-10:42:38)
+    (mountForm default
+        (footprintRef "RESC3216X65N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,16 @@
+.CRCW04022K20DHEDP :1 ;Thick Film Resistors - SMD D10/CRCW0402-P 50 2K2 0.5% ET7 e3
+RESC1005X40N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW04022K20DHEDP
+~!Mouser Part Number (71-CRCW04022K20DHEDP)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW04022K20DHEDP?qs=hWgE7mdIu5TsBnZbG%252BKJdA%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW04022K20DHEDP)
+~!Link Datasheet (https://www.vishay.com/doc?20036)
+~!Height (0.4mm)
+~!3D_Model (CRCW04022K20DHEDP)
+CRCW04022K20DHEDP
+1.1!U 2.1!U 

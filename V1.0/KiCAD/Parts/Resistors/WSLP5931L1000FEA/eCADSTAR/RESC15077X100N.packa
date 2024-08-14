@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WSLP5931L1000FEA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-03-23:16:43)
+    (mountForm default
+        (footprintRef "RESC15077X100N")
+        (spec "System")
+    )
+)

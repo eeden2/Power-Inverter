@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=RCV2512100KFKEGAT
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2021-08-31 06:35:54
+Downloaded=2024-08-07 20:45:40
+3D=Y

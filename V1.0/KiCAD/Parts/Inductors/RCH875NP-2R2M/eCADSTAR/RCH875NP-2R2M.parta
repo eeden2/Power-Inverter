@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_11571358"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-28-03:39:02)
+    (utime 2023-03-28-06:26:26)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RCH875NP-2R2M")
+)
+
+
+(pinAssign "ECS_11571358"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-28-03:39:02)
+    (utime 2023-03-28-06:26:26)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_11571358")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RCH875NP-2R2M")
+)
+
+
+(part "RCH875NP-2R2M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-28-03:39:02)
+    (utime 2023-03-28-06:26:26)
+    (packageRef "RCH875NP-2R2M")
+    (pinAssignRef "ECS_11571358")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Power Inductors - Leaded 2.2uH 3A 20% THRU HOLE INDUCTOR")
+    (property "Mouser_Part_Number" "851-RCH875NP-2R2M")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Sumida/RCH875NP-2R2M?qs=LKl%2FVGYbYthn8bnN%2FMKPbw%3D%3D")
+    (property "Manufacturer_Name" "Sumida")
+    (property "Manufacturer_Part_Number" "RCH875NP-2R2M")
+    (property "Datasheet_Link" "https://products.sumida.com/products/pdf/RCH-875.pdf")
+    (property "compAreaTopHeight" 7.5)
+)
+
+

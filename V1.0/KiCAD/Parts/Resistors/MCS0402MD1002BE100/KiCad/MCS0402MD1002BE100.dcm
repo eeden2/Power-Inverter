@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCS0402MD1002BE100
+D Thin Film Resistors - SMD .063W 10Kohms 0.1% 0402 25ppm Auto
+K
+F http://www.vishay.com/docs/28705/mcx0x0xpro.pdf
+$ENDCMP
+#
+#End Doc Library

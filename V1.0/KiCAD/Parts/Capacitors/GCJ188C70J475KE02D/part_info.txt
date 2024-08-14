@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GCJ188C70J475KE02D
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2019-10-01 09:24:05
+Downloaded=2024-08-07 18:00:32
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERJ-1GJF6802C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-10-10-14:03:17)
+    (mountForm default
+        (footprintRef "ERJ1GJJ2R4C")
+        (spec "System")
+    )
+)

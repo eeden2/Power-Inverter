@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAF31ER71H474KL
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-07-01 09:37:09
+Downloaded=2024-08-07 18:01:07
+3D=Y

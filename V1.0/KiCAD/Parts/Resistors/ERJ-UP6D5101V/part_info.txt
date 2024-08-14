@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-UP6D5101V
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2022-06-10 12:05:55
+Downloaded=2024-08-09 18:15:20
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERA-3ARB472V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-29-11:33:09)
+    (mountForm default
+        (footprintRef "ERA3AEB101V")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KAF21KR71H225KU'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "KAF21KR71H225KU" (!) = "", "CAPC2012X140N", "Capacitor Chip Non-polarised", "581-KAF21KR71H225KU", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAF21KR71H225KU?qs=Jm2GQyTW%2FbjwwNTLmtUMeQ%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2.2uF X7R 0805 10% AEC-Q200 FLEXITERM", "https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf", "1.4 mm"
+END_PART
+
+END.

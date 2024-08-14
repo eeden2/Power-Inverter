@@ -1,0 +1,16 @@
+.MBRS130T3G :1 ;Schottky Power Rectifier
+DIOM5436X247N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN MBRS130T3G
+~!Mouser Part Number (863-MBRS130T3G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/MBRS130T3G?qs=3JMERSakebp6is4BTPNy6g%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MBRS130T3G)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/MBRS130T3-D.PDF)
+~!Height (2.47mm)
+~!3D_Model (MBRS130T3G)
+MBRS130T3G
+1.1!U 2.1!U 

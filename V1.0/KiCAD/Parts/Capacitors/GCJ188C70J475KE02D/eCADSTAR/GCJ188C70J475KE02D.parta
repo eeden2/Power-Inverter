@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1997330"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-09:24:05)
+    (utime 2024-02-20-14:15:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GCJ188C70J475KE02D")
+)
+
+
+(pinAssign "ECS_1997330"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-09:24:05)
+    (utime 2024-02-20-14:15:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1997330")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GCJ188C70J475KE02D")
+)
+
+
+(part "GCJ188C70J475KE02D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-10-01-09:24:05)
+    (utime 2024-02-20-14:15:58)
+    (packageRef "GCJ188C70J475KE02D")
+    (pinAssignRef "ECS_1997330")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Capacitor GCJ18 L=1.6mm W=0.8mm T=0.8mm")
+    (property "Mouser_Part_Number" "81-GCJ188C70J475KE2D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCJ188C70J475KE02D?qs=QzBtWTOodeVfJR8CElrI4A%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GCJ188C70J475KE02D")
+    (property "Datasheet_Link" "https://psearch.en.murata.com/capacitor/product/GCJ188C70J475KE02%23.html")
+    (property "compAreaTopHeight" 1)
+)
+
+

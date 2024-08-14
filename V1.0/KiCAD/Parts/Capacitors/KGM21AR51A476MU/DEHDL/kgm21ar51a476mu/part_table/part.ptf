@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KGM21AR51A476MU'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "KGM21AR51A476MU" (!) = "", "CAPC2012X145N", "Capacitor Chip Non-polarised", "581-KGM21AR51A476MU", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KGM21AR51A476MU?qs=Jm2GQyTW%2Fbh2M%2FAPQlqugw%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10V 47uF X5R 0805 20%", "https://www.mouser.it/datasheet/2/40/cx5r_KGM-3223198.pdf", "1.45 mm"
+END_PART
+
+END.

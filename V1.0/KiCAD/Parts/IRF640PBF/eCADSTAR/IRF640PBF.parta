@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_186719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-07-22:35:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "IRF640PBF")
+)
+
+
+(pinAssign "ECS_186719"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-07-22:35:53)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "D") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "S") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_186719")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "IRF640PBF")
+)
+
+
+(part "IRF640PBF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-12-07-22:35:53)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "IRF640PBF")
+    (pinAssignRef "ECS_186719")
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "D") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "S") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "IRF640PBF")
+    (property "Mouser_Part_Number" "844-IRF640PBF")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRF640PBF?qs=%2FRKvNCQzLu1wtfVHcmZw0A%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "IRF640PBF")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 4.65)
+)
+
+

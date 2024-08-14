@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PCW1D_C24_KAB104L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "PCW1D-C24-KAB104L" (!) = "", "PCW1DC24KAB104L", "Other", "", "", "Potentiometers 100K 20% Sq 22mm Single Turn", "https://www.bourns.com/docs/Product-Datasheets/slimline.pdf", "27.31 mm"
+END_PART
+
+END.

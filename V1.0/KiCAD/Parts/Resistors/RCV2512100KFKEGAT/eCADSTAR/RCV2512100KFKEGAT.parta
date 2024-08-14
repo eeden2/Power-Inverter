@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_14817082"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-31-06:35:54)
+    (utime 2023-11-15-06:25:27)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RCV2512100KFKEGAT")
+)
+
+
+(pinAssign "ECS_14817082"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-31-06:35:54)
+    (utime 2023-11-15-06:25:27)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14817082")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RCV2512100KFKEGAT")
+)
+
+
+(part "RCV2512100KFKEGAT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-08-31-06:35:54)
+    (utime 2023-11-15-06:25:27)
+    (packageRef "RCV2512100KFKEGAT")
+    (pinAssignRef "ECS_14817082")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "100 kOhms +/-1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200, High Voltage Thick Film")
+    (property "Mouser_Part_Number" "71-RCV2512100KFKEGAT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCV2512100KFKEGAT?qs=DRkmTr78QATSFL7tjoIc2A%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "RCV2512100KFKEGAT")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/20082/rcvat-e3.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

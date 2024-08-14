@@ -1,0 +1,16 @@
+.MCS04020D4702BE000 :1 ;Vishay Resistor Chip 0402
+RESC1005X37N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MCS04020D4702BE000
+~!Mouser Part Number (594-MCS04020D4702BE0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCS04020D4702BE000?qs=17u8i%2FzlE88xzy3%2F9vIqDA%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (MCS04020D4702BE000)
+~!Link Datasheet (http://www.vishay.com/docs/28705/mcx0x0xpro.pdf)
+~!Height (0.37mm)
+~!3D_Model (MCS04020D4702BE000)
+MCS04020D4702BE000
+1.1!U 2.1!U 

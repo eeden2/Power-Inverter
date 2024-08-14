@@ -1,0 +1,16 @@
+.PCW1D-C24-KAB104L :1 ;Potentiometers 100K 20% Sq 22mm Single Turn
+PCW1DC24KAB104L
+*STM VR
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1 5=MH2 6=MH3 7=MH4
+*PLB 1="CCW" 2="WIPER" 3="CW" 4="MH1" 5="MH2" 6="MH3" 7="MH4"
+*MXP 7
+*DFN PCW1D-C24-KAB104L
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PCW1D-C24-KAB104L)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/slimline.pdf)
+~!Height (27.31mm)
+PCW1D-C24-KAB104L
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

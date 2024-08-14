@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KAF32LR71H106KL
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 10uF X7R 1210 10% AEC-Q200 FLEXITERM
+K
+F https://www.mouser.in/datasheet/2/40/AutoMLCCKAF-3218225.pdf
+$ENDCMP
+#
+#End Doc Library

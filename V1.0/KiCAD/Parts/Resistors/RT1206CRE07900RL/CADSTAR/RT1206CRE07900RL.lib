@@ -1,0 +1,16 @@
+.RT1206CRE07900RL :1 ;900 Ohms +/-0.25% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Thin Film
+RESC3116X65N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RT1206CRE07900RL
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (YAGEO)
+~!Manufacturer_Part_Number (RT1206CRE07900RL)
+~!Link Datasheet (https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RT_1-to-0.01_RoHS_L_15.pdf)
+~!Height (0.65mm)
+~!3D_Model (RT1206CRE07900RL)
+RT1206CRE07900RL
+1.1!U 2.1!U 

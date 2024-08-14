@@ -1,0 +1,16 @@
+.ERA-8VRB1202V :1 ;Series/Type: Thin Film Chip Resistors, High Stability and Reliability Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 3.2 x 1.6 (EIA:1206), Resistance Values (): 12000, Resistance Tolerance (%): 0.1, T.C.R (10/K): +/-10
+ERA8KEB1004V
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ERA-8VRB1202V
+~!Mouser Part Number (667-ERA-8VRB1202V)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-8VRB1202V?qs=By6Nw2ByBD2l45MYRMXXUw%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (ERA-8VRB1202V)
+~!Link Datasheet (https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf)
+~!Height (0.65mm)
+~!3D_Model (ERA-8VRB1202V)
+ERA-8VRB1202V
+1.1!U 2.1!U 

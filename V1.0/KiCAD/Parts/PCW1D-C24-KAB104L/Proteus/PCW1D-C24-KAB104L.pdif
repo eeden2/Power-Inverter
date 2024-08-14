@@ -1,0 +1,217 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PCW1D-C24-KAB104L"
+   (description "Potentiometers 100K 20% Sq 22mm Single Turn")
+   (family "ANA")
+   (package "PCW1DC24KAB104L")
+   (attribute "Datasheet Link" "https://www.bourns.com/docs/Product-Datasheets/slimline.pdf")
+   (attribute "Geometry.Height" "27.31mm")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Manufacturer_Name" "Bourns")
+   (attribute "Manufacturer_Part_Number" "PCW1D-C24-KAB104L")
+   (gate
+    (symbol "PCW1D-C24-KAB104L")
+    (pin "CCW" 1 PS)
+    (pin "WIPER" 2 PS)
+    (pin "CW" 3 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+    (pin "MH3" MH3 PS)
+    (pin "MH4" MH4 PS)
+   )
+  )
+  (symbol "PCW1D-C24-KAB104L"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PCW1DC24KAB104L"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.145 19.805)
+      (pt 14.225 19.805)
+      (pt 14.225 2.735)
+      (pt -9.145 2.735)
+      (pt -9.145 19.805))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.782 23.383)
+      (pt 15.863 23.383)
+      (pt 15.863 -1.893)
+      (pt -10.782 -1.893)
+      (pt -10.782 23.383))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8.56 19.805)
+      (pt -8.56 21.805)
+      (arc (pt -8.560 21.805) (pt -8.560 21.227) (pt -7.404 22.383) (start -102.2) (sweep 180.0))
+      (pt -7.86 22.37)
+      (pt 12.94 22.37)
+      (arc (pt 12.940 22.370) (pt 12.224 20.938) (pt 13.656 22.370) (start -77.8) (sweep 90.0))
+      (pt 13.64 21.805)
+      (pt 13.64 19.805))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8.56 2.735)
+      (pt -8.56 0.735)
+      (arc (pt -8.560 0.735) (pt -8.560 0.157) (pt -7.404 1.313) (start 102.2) (sweep 180.0))
+      (pt -7.86 0.17)
+      (pt 12.94 0.17)
+      (arc (pt 12.940 0.170) (pt 12.224 0.170) (pt 13.656 1.602) (start 77.8) (sweep -90.0))
+      (pt 13.64 0.735)
+      (pt 13.64 2.735))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.56 2.335)
+      (pt -8.56 0.735)
+      (arc (pt -8.560 0.735) (pt -8.560 0.157) (pt -7.404 1.313) (start 102.2) (sweep 180.0))
+      (pt -7.86 0.17)
+      (pt -1.46 0.17))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 6.54 0.17)
+      (pt 12.94 0.17)
+      (arc (pt 12.940 0.170) (pt 12.224 0.170) (pt 13.656 1.602) (start 77.8) (sweep -90.0))
+      (pt 13.64 0.735)
+      (pt 13.64 2.335))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.86 2.735)
+      (pt 12.94 2.735))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -9.145 5.135)
+      (pt -9.145 17.535))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.86 19.805)
+      (pt 12.94 19.805))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 14.225 5.135)
+      (pt 14.225 17.535))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -8.56 20.205)
+      (pt -8.56 21.805)
+      (arc (pt -8.560 21.805) (pt -8.560 21.227) (pt -7.404 22.383) (start -102.2) (sweep 180.0))
+      (pt -7.86 22.37)
+      (pt 12.94 22.37)
+      (arc (pt 12.940 22.370) (pt 12.224 20.938) (pt 13.656 22.370) (start -77.8) (sweep 90.0))
+      (pt 13.64 21.805)
+      (pt 13.64 20.205))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 0 -1.4)
+      (arc (pt 0.000 -1.400) (pt -0.050 -1.400) (pt 0.050 -1.300) (start 180.0) (sweep -90.0))
+      (pt 0 -1.3)
+      (arc (pt 0.000 -1.300) (pt -0.050 -1.400) (pt 0.050 -1.300) (start 180.0) (sweep 90.0))
+      (pt 0 -1.4))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 3 (pt 5.080 0.000) (padstack 0))
+   (leg MH1 (pt -8.890 3.670) (padstack 0))
+   (leg MH2 (pt 13.970 3.670) (padstack 0))
+   (leg MH3 (pt -8.890 18.870) (padstack 0))
+   (leg MH4 (pt 13.970 18.870) (padstack 0))
+   (padstack 0
+    (hole 1.19)
+    (plated true)
+    (pad (layer TCOP) (round 1.785))
+    (pad (layer INNER) (round 1.785))
+    (pad (layer BCOP) (round 1.785))
+   )
+   (padstack 1
+    (hole 1.19)
+    (plated true)
+    (pad (layer TCOP) (square 1.785))
+    (pad (layer INNER) (round 1.785))
+    (pad (layer BCOP) (square 1.785))
+   )
+  )
+ )
+)

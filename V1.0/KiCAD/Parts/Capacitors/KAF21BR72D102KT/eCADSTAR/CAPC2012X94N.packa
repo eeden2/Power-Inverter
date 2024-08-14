@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KAF21BR72D102KT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-08-10:39:15)
+    (mountForm default
+        (footprintRef "CAPC2012X94N")
+        (spec "System")
+    )
+)

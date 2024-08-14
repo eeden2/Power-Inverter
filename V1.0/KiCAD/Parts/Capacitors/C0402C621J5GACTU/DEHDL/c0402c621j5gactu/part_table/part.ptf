@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C0402C621J5GACTU'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "C0402C621J5GACTU" (!) = "", "C0402C104J4RACTU", "Other", "80-C0402C621J5G", "http://www.mouser.com/Search/ProductDetail.aspx?qs=GP7tGcbp1QRIekJfjnk3Vg%3d%3d", "SMD Comm C0G, Ceramic, 620 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Class I, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120", "https://componentsearchengine.com/Datasheets/1/C0402C621J5GACTU.pdf", "0.55 mm"
+END_PART
+
+END.

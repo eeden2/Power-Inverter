@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_2AEB562X'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERA-2AEB562X" (!) = "", "ERA2AED122X", "Other", "667-ERA-2AEB562X", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-2AEB562X?qs=YFwoyZoVY0izNHtAlYQ%2F4g%3D%3D", "Panasonic ERA Series Thin Film Surface Mount Resistor 0402 Case 5.6k +/-0.1% 63mW +/-25ppm/C", "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf", "0.4 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1481354"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-06-03-14:42:38)
+    (utime 2024-06-25-08:07:39)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TNPW120610R0BEEN")
+)
+
+
+(pinAssign "ECS_1481354"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-06-03-14:42:38)
+    (utime 2024-06-25-08:07:39)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1481354")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TNPW120610R0BEEN")
+)
+
+
+(part "TNPW120610R0BEEN"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-06-03-14:42:38)
+    (utime 2024-06-25-08:07:39)
+    (packageRef "TNPW120610R0BEEN")
+    (pinAssignRef "ECS_1481354")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Thin Film Resistors - SMD 10ohms .1% 25ppm")
+    (property "Mouser_Part_Number" "71-TNPW120610R0BEEN")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW120610R0BEEN?qs=WyvL69DJJa%252BeaMORMzQFUg%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "TNPW120610R0BEEN")
+    (property "Datasheet_Link" "http://www.vishay.com/docs/28758/tnpw_e3.pdf")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

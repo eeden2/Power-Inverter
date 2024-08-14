@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "C2220C143KFGLCAUTO"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-18-05:31:26)
+    (mountForm default
+        (footprintRef "CAPC5750X550N")
+        (spec "System")
+    )
+)

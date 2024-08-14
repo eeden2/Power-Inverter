@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1449218"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-08-19:36:22)
+    (utime 2023-03-09-06:26:05)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VS-15ETH06-M3")
+)
+
+
+(pinAssign "ECS_1449218"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-08-19:36:22)
+    (utime 2023-03-09-06:26:05)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1449218")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VS-15ETH06-M3")
+)
+
+
+(part "VS-15ETH06-M3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-08-19:36:22)
+    (utime 2023-03-09-06:26:05)
+    (packageRef "VS-15ETH06-M3")
+    (pinAssignRef "ECS_1449218")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Rectifiers 600V 15A TO-220 Fred Pt")
+    (property "Mouser_Part_Number" "78-VS-15ETH06-M3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VS-15ETH06-M3?qs=F5EMLAvA7ID9zHqiI9WHWg%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "VS-15ETH06-M3")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/96174/vs-15eth06.pdf")
+    (property "compAreaTopHeight" 4.65)
+)
+
+

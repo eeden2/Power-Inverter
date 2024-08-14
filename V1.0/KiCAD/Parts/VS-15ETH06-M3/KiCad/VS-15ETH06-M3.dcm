@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VS-15ETH06-M3
+D Rectifiers 600V 15A TO-220 Fred Pt
+K
+F https://www.vishay.com/docs/96174/vs-15eth06.pdf
+$ENDCMP
+#
+#End Doc Library

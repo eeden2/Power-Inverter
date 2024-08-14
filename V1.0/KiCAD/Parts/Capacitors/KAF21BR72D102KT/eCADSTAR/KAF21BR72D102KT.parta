@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19597214"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-08-10:39:15)
+    (utime 2024-05-08-10:39:15)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "KAF21BR72D102KT")
+)
+
+
+(pinAssign "ECS_19597214"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-08-10:39:15)
+    (utime 2024-05-08-10:39:15)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19597214")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "KAF21BR72D102KT")
+)
+
+
+(part "KAF21BR72D102KT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-08-10:39:15)
+    (utime 2024-05-08-10:39:15)
+    (packageRef "KAF21BR72D102KT")
+    (pinAssignRef "ECS_19597214")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT 200V 1000pF X7R 0805 10% AEC-Q200 FLEXITERM")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Kyocera AVX")
+    (property "Manufacturer_Part_Number" "KAF21BR72D102KT")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 0.94)
+)
+
+

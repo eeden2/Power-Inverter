@@ -1,0 +1,16 @@
+.3503G2B1K0FTDF :1 ;1 kOhms +/-1% 2W Chip Resistor 1206 (3216 Metric) Thin Film
+RESC3016X58N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 3503G2B1K0FTDF
+~!Mouser Part Number (279-3503G2B1K0FTDF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/3503G2B1K0FTDF?qs=By6Nw2ByBD13Y8cdbUYjIQ%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (3503G2B1K0FTDF)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773270-4&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-2176524-6&DocFormat=pdf)
+~!Height (0.58mm)
+~!3D_Model (3503G2B1K0FTDF)
+"3503G2B1K0FTDF"
+1.1!U 2.1!U 

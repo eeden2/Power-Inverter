@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SRR5228A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SRR5228A")
+        (spec "default")
+    )
+)

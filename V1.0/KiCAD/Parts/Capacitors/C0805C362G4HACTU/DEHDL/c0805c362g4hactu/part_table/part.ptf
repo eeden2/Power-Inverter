@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C0805C362G4HACTU'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "C0805C362G4HACTU" (!) = "", "C0805", "Other", "80-C0805C362G4HACTU", "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C362G4HACTU?qs=W0yvOO0ixfGyvRKe9FXYiQ%3D%3D", "SMD Comm X8R HT150C, Ceramic, 3600 pF, 2%, 16 VDC, 40 VDC, 150C, -55C, X8R, SMD, MLCC, High Temperature, Ultra-Stable, 2.5 % , 100 GOhms, 11 mg, 0805, 2mm, 1.25mm, 0.78mm, 0.75mm, 0.5mm, 4000, 78  Weeks", "https://content.kemet.com/datasheets/KEM_C1007_X8R_ULTRA_150C_SMD.pdf", "1.1 mm"
+END_PART
+
+END.

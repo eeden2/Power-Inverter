@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRF640PBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IRF640PBF" (!) = "", "TO254P465X1024X2050-3P", "Transistor Outline, Vertical", "844-IRF640PBF", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/IRF640PBF?qs=%2FRKvNCQzLu1wtfVHcmZw0A%3D%3D", "IRF640PBF", "", "4.65 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERA_3ARB472V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERA-3ARB472V" (!) = "", "ERA3AEB101V", "Other", "667-ERA-3ARB472V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-3ARB472V?qs=ob%252BdNz2%252BYEhO%2FuFwsMtJGA%3D%3D", "Thin Film Resistors - SMD 0603 4.7Kohm 0.1% 10ppm AEC-Q200", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf", "0.55 mm"
+END_PART
+
+END.

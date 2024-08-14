@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEE-FT1H331AV"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-12-10:38:52)
+    (mountForm default
+        (footprintRef "EEHZT1E561UV")
+        (spec "System")
+    )
+)

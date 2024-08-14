@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TNPW120610R0BEEN'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "TNPW120610R0BEEN" (!) = "", "RESC3216X65N", "Resistor Chip", "71-TNPW120610R0BEEN", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW120610R0BEEN?qs=WyvL69DJJa%252BeaMORMzQFUg%3D%3D", "Thin Film Resistors - SMD 10ohms .1% 25ppm", "http://www.vishay.com/docs/28758/tnpw_e3.pdf", "0.65 mm"
+END_PART
+
+END.

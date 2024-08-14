@@ -1,0 +1,16 @@
+.SRR5228A-221M :1 ;Ind,5.2x5.2x2.8,220uH+/-20%,0.46A,shd
+SRR5228A
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRR5228A-221M
+~!Mouser Part Number (6521-SRR5228A-221M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRR5228A-221M?qs=QpmGXVUTftFQ62yS6IDeWg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRR5228A-221M)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRR5228A.pdf)
+~!Height (-)
+~!3D_Model (SRR5228A-221M)
+SRR5228A-221M
+1.1!U 2.1!U 

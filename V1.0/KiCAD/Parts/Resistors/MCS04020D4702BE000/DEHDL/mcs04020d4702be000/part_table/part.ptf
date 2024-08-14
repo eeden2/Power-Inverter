@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCS04020D4702BE000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "MCS04020D4702BE000" (!) = "", "RESC1005X37N", "Resistor Chip", "594-MCS04020D4702BE0", "https://www.mouser.co.uk/ProductDetail/Vishay-Beyschlag/MCS04020D4702BE000?qs=17u8i%2FzlE88xzy3%2F9vIqDA%3D%3D", "Vishay Resistor Chip 0402", "http://www.vishay.com/docs/28705/mcx0x0xpro.pdf", "0.37 mm"
+END_PART
+
+END.

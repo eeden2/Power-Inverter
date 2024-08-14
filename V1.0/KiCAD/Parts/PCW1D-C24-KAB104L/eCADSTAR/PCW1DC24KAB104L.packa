@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PCW1D-C24-KAB104L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-19-16:30:50)
+    (mountForm default
+        (footprintRef "PCW1DC24KAB104L")
+        (spec "System")
+    )
+)

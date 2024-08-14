@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RESC6332X70N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RESC6332X70N")
+        (spec "default")
+    )
+)

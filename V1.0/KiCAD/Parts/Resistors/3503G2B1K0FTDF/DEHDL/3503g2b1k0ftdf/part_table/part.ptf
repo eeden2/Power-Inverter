@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3503G2B1K0FTDF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "3503G2B1K0FTDF" (!) = "", "RESC3016X58N", "Resistor Chip", "279-3503G2B1K0FTDF", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/3503G2B1K0FTDF?qs=By6Nw2ByBD13Y8cdbUYjIQ%3D%3D", "1 kOhms +/-1% 2W Chip Resistor 1206 (3216 Metric) Thin Film", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773270-4&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-2176524-6&DocFormat=pdf", "0.58 mm"
+END_PART
+
+END.

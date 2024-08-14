@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_15053696"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-18-05:31:26)
+    (utime 2023-12-12-06:26:01)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "C2220C143KFGLCAUTO")
+)
+
+
+(pinAssign "ECS_15053696"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-18-05:31:26)
+    (utime 2023-12-12-06:26:01)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_15053696")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "C2220C143KFGLCAUTO")
+)
+
+
+(part "C2220C143KFGLCAUTO"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-04-18-05:31:26)
+    (utime 2023-12-12-06:26:01)
+    (packageRef "C2220C143KFGLCAUTO")
+    (pinAssignRef "ECS_15053696")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "KONNEKT Auto C0G, Ceramic, 0.014 uF, 10%, 1500 VDC, 1800 VDC, 125C, -55C, C0G, 0.1 % , 71.429 GOhms, 650 mg, 300, 78  Weeks, 120")
+    (property "Mouser_Part_Number" "80-C2220C143KFGLAUTO")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/C2220C143KFGLCAUTO?qs=CiayqK2gdcIbCR5xEcwEIg%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "C2220C143KFGLCAUTO")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_C1113_KONNEKT_C0G.pdf")
+    (property "compAreaTopHeight" 5.5)
+)
+
+

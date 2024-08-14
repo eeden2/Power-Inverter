@@ -1,0 +1,16 @@
+.RCV2512100KFKEGAT :1 ;100 kOhms +/-1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200, High Voltage Thick Film
+RESC6332X70N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCV2512100KFKEGAT
+~!Mouser Part Number (71-RCV2512100KFKEGAT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Draloric/RCV2512100KFKEGAT?qs=DRkmTr78QATSFL7tjoIc2A%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCV2512100KFKEGAT)
+~!Link Datasheet (https://www.vishay.com/docs/20082/rcvat-e3.pdf)
+~!Height (0.7mm)
+~!3D_Model (RCV2512100KFKEGAT)
+RCV2512100KFKEGAT
+1.1!U 2.1!U 

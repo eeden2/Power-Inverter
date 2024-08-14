@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KAM03CT70J105KH"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-29-09:18:29)
+    (mountForm default
+        (footprintRef "CAPC0603X39N")
+        (spec "System")
+    )
+)

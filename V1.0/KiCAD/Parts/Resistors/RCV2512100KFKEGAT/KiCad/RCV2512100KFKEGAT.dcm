@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCV2512100KFKEGAT
+D 100 kOhms +/-1% 1W Chip Resistor 2512 (6432 Metric) Automotive AEC-Q200, High Voltage Thick Film
+K
+F https://www.vishay.com/docs/20082/rcvat-e3.pdf
+$ENDCMP
+#
+#End Doc Library

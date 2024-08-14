@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LT1111CS8")(type "KiCad")(uri "/home/mrglade/Documents/Power-Inverter/V1.0/KiCAD/Parts/LT1111CS8-5#PBF/KiCad/LT1111CS8-5#PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "MBRS130T3G")(type "KiCad")(uri "/home/mrglade/Documents/Power-Inverter/V1.0/KiCAD/Parts/MBRS130T3G/KiCad/MBRS130T3G.kicad_sym")(options "")(descr ""))
+)

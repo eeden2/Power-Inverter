@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KGM21AR51A476MU
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-06-26 11:02:25
+Downloaded=2024-08-07 17:58:03
+3D=Y

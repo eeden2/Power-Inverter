@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KAF21KR71H225KU
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 2.2uF X7R 0805 10% AEC-Q200 FLEXITERM
+K
+F https://datasheets.kyocera-avx.com/AutoMLCCKAF.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RCH875NP2R2M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RCH875NP2R2M")
+        (spec "default")
+    )
+)

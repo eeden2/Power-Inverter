@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CAPPRD600W90D1200H2100"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CAPPRD600W90D1200H2100")
+        (spec "default")
+    )
+)

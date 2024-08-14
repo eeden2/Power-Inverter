@@ -1,0 +1,16 @@
+.TNPW120610R0BEEN :1 ;Thin Film Resistors - SMD 10ohms .1% 25ppm
+RESC3216X65N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN TNPW120610R0BEEN
+~!Mouser Part Number (71-TNPW120610R0BEEN)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/TNPW120610R0BEEN?qs=WyvL69DJJa%252BeaMORMzQFUg%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (TNPW120610R0BEEN)
+~!Link Datasheet (http://www.vishay.com/docs/28758/tnpw_e3.pdf)
+~!Height (0.65mm)
+~!3D_Model (TNPW120610R0BEEN)
+TNPW120610R0BEEN
+1.1!U 2.1!U 

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1143558"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:46)
+    (utime 2023-03-07-10:39:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CRCW120622R0JNEAHP")
+)
+
+
+(pinAssign "ECS_1143558"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:46)
+    (utime 2023-03-07-10:39:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1143558")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CRCW120622R0JNEAHP")
+)
+
+
+(part "CRCW120622R0JNEAHP"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:46)
+    (utime 2023-03-07-10:39:46)
+    (packageRef "CRCW120622R0JNEAHP")
+    (pinAssignRef "ECS_1143558")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Thick Film Resistors - SMD 3/4watt 22ohms 5% High Power AEC-Q200")
+    (property "Mouser_Part_Number" "71-CRCW120622R0JNEAH")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW120622R0JNEAHP?qs=k2%2FDWSARqgE%252BqJTlPdiKFQ%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "CRCW120622R0JNEAHP")
+    (property "Datasheet_Link" "http://componentsearchengine.com/Datasheets/1/CRCW120622R0JNEAHP.pdf")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

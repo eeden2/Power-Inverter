@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WSLP5931L1000FEA
+D Current Sense Resistors - SMD 0.0001 ohm 1%
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/cd369b67f640568f5c60fc944b86acf3.pdf
+$ENDCMP
+#
+#End Doc Library

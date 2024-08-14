@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=WSLP5931L1000FEA
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2019-08-03 23:16:43
+Downloaded=2024-08-07 20:46:55
+3D=Y

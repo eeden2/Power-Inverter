@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VS-15ETH06-M3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-08-19:36:22)
+    (mountForm default
+        (footprintRef "TO508P465X1031X1932-2P")
+        (spec "System")
+    )
+)

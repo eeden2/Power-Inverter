@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GCJ188C70J475KE02D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GCJ188C70J475KE02D" (!) = "", "CAPC1608X100N", "Capacitor Chip Non-polarised", "81-GCJ188C70J475KE2D", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GCJ188C70J475KE02D?qs=QzBtWTOodeVfJR8CElrI4A%3D%3D", "Capacitor GCJ18 L=1.6mm W=0.8mm T=0.8mm", "https://psearch.en.murata.com/capacitor/product/GCJ188C70J475KE02%23.html", "1 mm"
+END_PART
+
+END.

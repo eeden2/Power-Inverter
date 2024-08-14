@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KAM15AR72A103KM
+D 10000 pF +/-10% 100V Ceramic Capacitor X7R 0603 (1608 Metric)
+K
+F https://datasheets.kyocera-avx.com/AutoMLCCKAM.pdf
+$ENDCMP
+#
+#End Doc Library

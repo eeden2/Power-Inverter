@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KAM15AR71H104KM
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2024-01-30 06:23:37
+Downloaded=2024-08-07 16:27:51
+3D=Y

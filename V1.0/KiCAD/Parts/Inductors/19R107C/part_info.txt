@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=19R107C
+PartCategory=Inductor
+PackageCategory=Capacitor, Polarized Radial Diameter
+PinCount=2
+Version=1.1
+Released=2020-02-22 02:39:20
+Downloaded=2024-08-10 13:54:09
+3D=Y

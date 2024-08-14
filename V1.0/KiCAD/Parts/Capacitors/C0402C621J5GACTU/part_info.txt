@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0402C621J5GACTU
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=5.2
+Released=2023-03-07 11:14:59
+Downloaded=2024-08-10 14:14:34
+3D=Y

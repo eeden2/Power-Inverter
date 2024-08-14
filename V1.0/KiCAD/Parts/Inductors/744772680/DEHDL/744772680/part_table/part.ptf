@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '744772680'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Wurth Elektronik", "744772680" (!) = "", "WE-TI_809589", "Other", "710-744772680", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744772680?qs=VxkwJfKV0FT%2FHCuvNWnfmw%3D%3D", "Radial Leaded Wire Wound Inductor WE-TI", ""
+END_PART
+
+END.
