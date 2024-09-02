@@ -11035,6 +11035,10 @@
 		(uuid "ed0ff8c2-c681-4a7a-a485-0d4eea4d8341")
 	)
 	(no_connect
+		(at 104.14 68.58)
+		(uuid "ee3849f8-f2bb-4936-844a-4c5d1300a285")
+	)
+	(no_connect
 		(at 330.2 69.85)
 		(uuid "ee38f26d-9cdd-4b8d-ae43-c015a030ae1a")
 	)
@@ -14034,16 +14038,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 68.58) (xy 107.95 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "862a9e94-e332-4727-bdca-d53712286f5d")
-	)
-	(wire
-		(pts
 			(xy 179.07 173.99) (xy 180.34 173.99)
 		)
 		(stroke
@@ -16271,16 +16265,6 @@
 			(type default)
 		)
 		(uuid "eb3b5c49-ecc5-4aa0-8eb1-0ac7fe656eb4")
-	)
-	(wire
-		(pts
-			(xy 104.14 68.58) (xy 107.95 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec9d6dae-dd40-4a6d-86c5-e0b4f8d94ba5")
 	)
 	(wire
 		(pts
@@ -25005,72 +24989,6 @@
 			(project "V1.0"
 				(path "/53b2a5be-9ef4-49a8-af7b-42525ecf0c9a"
 					(reference "VR1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 107.95 67.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80e5cfc4-0874-4031-84cb-d5b5fac602ba")
-		(property "Reference" "#PWR097"
-			(at 107.95 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 107.95 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 107.95 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70b6b0e5-7856-4e84-887e-2168def1a922")
-		)
-		(instances
-			(project "V1.0"
-				(path "/53b2a5be-9ef4-49a8-af7b-42525ecf0c9a"
-					(reference "#PWR097")
 					(unit 1)
 				)
 			)
